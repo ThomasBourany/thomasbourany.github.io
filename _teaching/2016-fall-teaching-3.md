@@ -27,26 +27,26 @@ Macroeconomics  3: Macro-finance and Heterogeneous agents models -- Syllabus
 	- Woodford AER (1990) - Public debt as Liquidity
 	- Mankiw JFE (1986) - Concentration and correlation of shocks
 	- Money supply in standard OLG model
-
-4. "Equity premium puzzle":
+4. 'Equity premium puzzle':
 	- Potential solutions:
 		- Epstein-Zin preferences, Weil (1989)
 		- Habit formation, Campbell-Cochrane JPE (1999)
 		- Disaster events, Rietz, Barro (2006)
-
-5. "Classical" models of Heterogenous agents:
+		
+5. 'Classical' models of Heterogenous agents:
 	- Bewley (1983) - Theory of money
 	- Huggett JEDC (1993) - Risk free rate
 	- General framework and equilibrium in this type of models
 	- Incomplete market and precautionary saving: Aiyagari QJE (1994)
-
+	
 6. Reduced-heterogeneity representations
 	- No trade equilibria - Krusell Mukoyama Smith (2011), Ravn Sterk (2016 - HANK and SAM)
 	- Assumption on utility function, Legrand-Ragot (2016/2017)
 	- Truncation, Challe-Matheron-Ragot-Rubio Ramirez (2016)
 
 7. HA models with aggregate uncertainty
+
 	- Krusell-Smith (1998) - techniques and computation
 	- Krusell, Hubmer and Smith (2017) - inequalities
-
+	
 8. HANK (Heterogeneous agents New Keynesian models) and economic policy
