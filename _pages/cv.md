@@ -38,7 +38,7 @@ Work experience
 * Summer 2015: Research Assistant, Banque de France, Paris, France.
   * Data collection and analysis: "Fiscal Policy and Tax Compliance over the business cycle"
   	- Award: "Prize for the Research Internship", Ecole Polytechnique
-  * Research project led by F. Pappadà and Y. Zylberberg
+  * Research project led by F. Pappada and Y. Zylberberg
 
 Research and Work in progress
 ======
