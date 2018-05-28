@@ -8,12 +8,15 @@ date: 2016-09-02
 location: "Paris, France"
 ---
 
-Fall semester 2016 and Spring Semester 2018 (in English) -- Lectures taught by Thomas Chaney (Sciences Po). 
+*Fall semester 2016* and *Spring Semester 2018* (in English) -- Lectures taught by **Thomas Chaney** (Sciences Po). 
 
-Macroeconomics -- Syllabus 
+
+Syllabus 
 ===== 
 - Measurement 
 - Growth, Solow model and Endogenous growth 
 - Overlapping Generation model, Money and Pensions
 - Expectations and the Lucas Critique 
 - Uncertainty and the cost of Business Cycles
+
+*Teaching assistant*: In charge of the TA (tutorial) session, Grading homeworks (projects) midterms and final exams

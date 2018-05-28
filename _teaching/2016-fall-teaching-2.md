@@ -8,9 +8,11 @@ date: 2016-09-01
 location: "Paris, France"
 ---
 
-Fall semester 2016 (in English) -- Lectures taught by Jean Barthelemy (Sciences Po and Banque de France). 
+*Fall semester 2016* (in English) -- Lectures taught by **Jean Barthelemy** (Sciences Po and Banque de France). 
 
-Macroeconomics 3 -- Syllabus
+*Teaching assistant*: In charge of the TA (exercises) session, Grading presentations and exams
+
+Syllabus
 ====== 
 
 - Lecture 1: Introduction - Facts and Figures

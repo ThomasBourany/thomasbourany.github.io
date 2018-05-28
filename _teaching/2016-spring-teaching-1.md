@@ -8,5 +8,10 @@ date: 2016-01-01
 location: "Paris, France"
 ---
 
-Spring semester 2016 (in English) -- Lectures taught by Xavier Ragot (OFCE - ScPo) and Philippe Andrade (Banque de France).  
-Macroeconomics for Public Policies: Basic concepts ; IS-LM model ; OLG model, consumption smoothing ; Public debt and Ricardian Equivalence ; Fiscal Multipliers, theory and empirics ; AS-AD model ; Monetary policies and the role of Expectations ; Euro Area Crisis and Monetary policy intervention.
+*Spring semester 2016* (in English) -- Lectures taught by **Xavier Ragot** (OFCE - ScPo) and **Philippe Andrade** (Banque de France). 
+
+Syllabus:  
+======
+Basic concepts ; IS-LM model ; OLG model, consumption smoothing ; Public debt and Ricardian Equivalence ; Fiscal Multipliers, theory and empirics ; AS-AD model ; Monetary policies and the role of Expectations ; Euro Area Crisis and Monetary policy intervention.
+
+*Teaching assistant*: In charge of the TA (tutorial) sessions, Grading midterms and exams
