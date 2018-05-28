@@ -18,8 +18,8 @@ Macroeconomics  3: Macro-finance and Heterogeneous agents models -- Syllabus
 	- Introduction to the main concepts of incomplete markets models (Pricing kernels, risk sharing etc.)
 
 2. Foundations: credit constraints and incomplete insurance markets models :
-	- Debt, Collateral constraint and Financial multiplier (Bernanke Gertler 1989)
-	- Holmström and Tirole QJE (1997)
+	- Debt, Collateral constraint and Financial multiplier (Bernanke, Gertler 1989)
+	- Holmstrom and Tirole QJE (1997)
 	- Advances in dynamic models: Kiyotaki and Moore JPE (1997)
 	- Credit constraint in DSGE: Bernanke Gertler Gilchrist (1999), Iacovello (2005)
 
