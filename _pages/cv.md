@@ -11,41 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Master -- MAPSS-Economics -- University of Chicago, (Expected, 2019) 
+
+* Master -- Mathematics and Applications -- UPMC-Sorbonne University (Paris), 2018
+	- M2, with high honors: Mathematics of Modelling ([LJLL](https://www.ljll.math.upmc.fr/MathModel/index_en.html)), Control theory, Numerical methods and Mean Field Games
+	- M1: probability theory and stochastic calculus
+	- 'Big Data' Certificate: Additional courses in Statistics and Machine Learning
+
+* Master in Economics -- EPP -- Sciences Po, Ecole Polytechnique and Ensae (Joint program - Paris), 2016
+	- Specialization in Macroeconomics
+	- Master thesis: Government spending in monetary unions: Optimal policy and cross-countries spillovers
+
+* Dual Bachelor in Sciences and Social Sciences (Paris), 2014
+	- Bachelor in Social Sciences, Sciences Po Paris
+	- Bachelor in Mathematics, with honors, UPMC-Sorbonne
+	- Exchange program : Indian Institute of Technology, Madras (IITM), Chennai
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern, University Paris Diderot, Paris, France.
+  * Numerical methods for Mean Field Games with common noise
+  * Supervisor: Y. Achdou (LJLL)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2015: Research Assistant, Banque de France, Paris, France.
+  * Data collection and analysis: "Fiscal Policy and Tax Compliance over the business cycle"
+  	- Award: "Prize for the Research Internship", Ecole Polytechnique
+  * Research project led by F. Pappadà and Y. Zylberberg
 
-Publications
+Research and Work in progress
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
