@@ -11,7 +11,7 @@ location: "Paris, France"
 Fall semester 2016 and Fall Semester 2016 (in English) -- Lectures taught by Xavier Ragot (Sciences Po and CNRS). 
 
 Macroeconomics  3: Macro-finance and Heterogeneous agents models -- Syllabus 
-======
+====== 
 
 1. Introduction: basic facts of aggregation in macroeconomics
 	- Heterogeneity of agents: Household (Inequality) and Firms
