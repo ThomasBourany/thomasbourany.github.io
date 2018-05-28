@@ -15,7 +15,7 @@ Organization
 
 *Marking scheme*: Readings (tests in class) 20 %, Homework (Problem sets) 10%, Referee report (on a recent theoretical article) 30%, and Final exam 40%.
 
-*Teaching assistant*: In charge of the TA sessions (exercises), Grading homeworks, tests, referee reports and exams.
+*Teaching assistant*: In charge of the TA sessions (exercises), Grading homework, tests, referee reports and exams.
 
 Lecture on optimisation for economics, on Probability Theory (conditional expectations, Martingales and Markov Chains), on Asset Pricing.
 
@@ -36,26 +36,25 @@ Syllabus
 	- Woodford AER (1990) - Public debt as Liquidity
 	- Mankiw JFE (1986) - Concentration and correlation of shocks
 	- Money supply in standard OLG model
-4. 'Equity premium puzzle':
+4. *Equity premium puzzle*:
 	- Potential solutions:
 		- Epstein-Zin preferences, Weil (1989)
 		- Habit formation, Campbell-Cochrane JPE (1999)
 		- Disaster events, Rietz, Barro (2006)
 		
-5. 'Classical' models of Heterogenous agents:
+5. *Classical* models of Heterogenous agents:
 	- Bewley (1983) - Theory of money
 	- Huggett JEDC (1993) - Risk free rate
 	- General framework and equilibrium in this type of models
 	- Incomplete market and precautionary saving: Aiyagari QJE (1994)
 	
-6. Reduced-heterogeneity representations
-	- No trade equilibria - Krusell Mukoyama Smith (2011), Ravn Sterk (2016 - HANK and SAM)
-	- Assumption on utility function, Legrand-Ragot (2016/2017)
-	- Truncation, Challe-Matheron-Ragot-Rubio Ramirez (2016)
-
-7. HA models with aggregate uncertainty
-
+6. HA models with aggregate uncertainty
 	- Krusell-Smith (1998) - techniques and computation
 	- Krusell, Hubmer and Smith (2017) - inequalities
 	
+7. Reduced-heterogeneity representations
+	- No trade equilibria - Krusell Mukoyama Smith (2011), Ravn Sterk (2016 - HANK and SAM)
+	- Assumption on utility function, Legrand-Ragot (2016, 2017)
+	- Truncation, Challe-Matheron-Ragot-Rubio Ramirez (2016)
+
 8. HANK (Heterogeneous agents New Keynesian models) and economic policy
