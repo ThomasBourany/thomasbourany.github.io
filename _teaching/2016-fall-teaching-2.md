@@ -9,9 +9,9 @@ location: "Paris, France"
 ---
 
 Fall semester 2016 (in English) -- Lectures taught by Jean Barthelemy (Sciences Po and Banque de France). 
-====== 
-Macroeconomics 3 -- Syllabus
 
+Macroeconomics 3 -- Syllabus
+====== 
 
 - Lecture 1: Introduction - Facts and Figures
 - Lecture 2-4: From Ricardian equivalence to non-neutrality
