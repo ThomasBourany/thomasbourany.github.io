@@ -1,7 +1,7 @@
 ---
 title: "Fiscal Policy and Tax compliance over the business cycle"
 collection: publications
-permalink: /publication/2015-09-01-Tax-compliance-business-cycle
+permalink: /publications/2015-09-01-Tax-compliance-business-cycle
 excerpt: 'This work is the result of my Research Assistantship in the French Central Bank, under the supervision of researchers F. Pappad\'a and Y. Zylberberg. We constructed a new indicator for tax compliance and studied empirically fiscal policy over the business cycle. I received for this work the  <i>Prize for the Research Internship</i> from Ecole Polytechnique.'
 date: 2015-10-01
 %venue: 'Journal 1'

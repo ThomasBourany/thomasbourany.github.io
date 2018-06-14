@@ -1,7 +1,7 @@
 ---
 title: "Fiscal policy in monetary union"
 collection: publications
-permalink: /publication/2016-10-01-Fiscal-policy-monetary-union
+permalink: /publications/2016-10-01-Fiscal-policy-monetary-union
 excerpt: 'In this master thesis, I explored the role of government spending, the optimal policy design and the various spillovers of public spending shocks in a monetary union.'
 date: 2016-10-01
 %venue: 'Journal 1'
