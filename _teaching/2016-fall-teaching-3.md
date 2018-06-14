@@ -37,13 +37,13 @@ Syllabus
 	- Mankiw JFE (1986) - Concentration and correlation of shocks
 	- Money supply in standard OLG model
 
-4. 'Equity premium puzzle':
+4. "Equity premium puzzle":
 	- Potential solutions:
 		- Epstein-Zin preferences, Weil (1989)
 		- Habit formation, Campbell-Cochrane JPE (1999)
 		- Disaster events, Rietz, Barro (2006)
 		
-5. 'Classical' models of Heterogenous agents:
+5. "Classical" models of Heterogenous agents:
 	- Bewley (1983) - Theory of money
 	- Huggett JEDC (1993) - Risk free rate
 	- General framework and equilibrium in this type of models
