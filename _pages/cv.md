@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my <a href='https://thomasbourany.github.io/files/2018-CV-ThomasBourany.pdf' style="color:blue">here</a>
+You can download my CV <a href='https://thomasbourany.github.io/files/2018-CV-ThomasBourany.pdf' style="color:blue">here</a>
 
 {% include base_path %}
 
@@ -25,9 +25,9 @@ Education
 	- Master thesis: Government spending in monetary unions: Optimal policy and cross-countries spillovers
 
 * Dual Bachelor in Sciences and Social Sciences (Paris), 2014
-	- Bachelor in Social Sciences, Sciences Po Paris
-	- Bachelor in Mathematics, with honors, UPMC-Sorbonne
-	- Exchange program : Indian Institute of Technology, Madras (IITM), Chennai
+	- Bachelor in Social Sciences, Sciences Po, Paris
+	- Bachelor in Mathematics, with honors, UPMC-Sorbonne, Paris
+	- Exchange program : Indian Institute of Technology, Madras (IITM), Chennai, India
 
 Work experience
 ======
