@@ -1,12 +1,12 @@
 ---
 title: "Mean Field Games and economics"
-collection: publications
+collection: publication
 permalink: /publications/2018-05-01-MFG-for-econ
 excerpt: 'This project is part of my internship at Paris-Diderot University, under the supervision of Yves Achdou. I develop novel methods to simulate Mean Field Games with common noise -- i.e. heterogeneous agents models with aggregate risk.'
 date: 2018-05-01
-%venue: 'Journal 1'
-%paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-%citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ''
+paperurl: ''
+citation: ''
 ---
 
 This project is part of my internship at Paris-Diderot University, under the supervision of Yves Achdou. 
