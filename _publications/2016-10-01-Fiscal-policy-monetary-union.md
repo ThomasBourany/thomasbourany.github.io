@@ -12,6 +12,7 @@ citation: ''
 This paper is an updated version of master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). In this master thesis, I explored the role of government spending, the optimal policy design and the various spillovers of public spending shocks in a monetary union. Through this New Keynesian theoretical model, when countries are heterogeneous, I could formulate a rationale for Fiscal-Monetary cooperation.
 
 Download a [short version (20 pages) here](https://thomasbourany.github.io/files/Master-thesis-short10-Third-draft.pdf)
+
 Download a [longer version (40 pages) here](https://thomasbourany.github.io/files/Master thesis-ThomasBourany.pdf)
 
 
