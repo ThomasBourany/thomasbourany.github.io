@@ -31,4 +31,8 @@ Syllabus
 	- Holmstrom and Tirole QJE (1997)
 	- Advances in dynamic models: Kiyotaki and Moore JPE (1997)
 	- Credit constraint in DSGE model: Bernanke, Gertler, Gilchrist (1999), Iacovello (2005)
-
+	
+3. A primer on incomplete markets models:
+	- Woodford AER (1990) - Public debt as Liquidity
+	- Mankiw JFE (1986) - Concentration and correlation of shocks
+	- Money supply in standard OLG model
