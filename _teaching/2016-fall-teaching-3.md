@@ -48,3 +48,14 @@ Syllabus
 	- Huggett JEDC (1993) - Risk free rate
 	- General framework and equilibrium in this type of models
 	- Incomplete market and precautionary saving: Aiyagari QJE (1994)
+	
+6. Reduced-heterogeneity representations
+	- No trade equilibria - Krusell Mukoyama Smith (2011), Ravn Sterk (2016 - HANK and SAM)
+	- Assumption on utility function, Legrand-Ragot (2016/2017)
+	- Truncation, Challe-Matheron-Ragot-Rubio Ramirez (2016)
+	
+7. HA models with aggregate uncertainty
+	- Krusell-Smith (1998) - techniques and computation
+	- Krusell, Hubmer and Smith (2017) - inequalities
+	
+8. HANK (Heterogeneous agents New Keynesian models) and economic policy
