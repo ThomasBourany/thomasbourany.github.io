@@ -7,7 +7,7 @@ date: 2015-10-01
 
 ---
 
-This work is the result of my Research Assistantship at the French Central Bank (Banque de France -- DGEI-DERIE-SEMSI), under the supervision of researchers F. Pappad'a and Y. Zylberberg. We constructed a new indicator for tax compliance and studied empirically fiscal policy over the business cycle. I was in charge of the data collection and the statistical analysis, and I received for this work the <i>Prize for the Research Internship</i> from Ecole Polytechnique.
+This work is the result of my Research Assistantship at the French Central Bank (Banque de France - DGEI-DERIE-SEMSI), under the supervision of researchers F. Pappad'a and Y. Zylberberg. We constructed a new indicator for tax compliance and studied empirically fiscal policy over the business cycle. I was in charge of the data collection and the statistical analysis, and I received for this work the <i>Prize for the Research Internship</i> from Ecole Polytechnique.
 
 This work is the object of further research.
 
