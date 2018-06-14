@@ -25,4 +25,10 @@ Syllabus
 1. Introduction: basic facts of aggregation in macroeconomics
 	- Heterogeneity of agents: Household (Inequality) and Firms
 	- Introduction to the main concepts of incomplete markets models (Pricing kernels, risk sharing etc.)
+	
+2. Foundations: credit constraints and incomplete insurance markets models:
+	- Debt, Collateral constraints and financial multiplier (Bernanke, Gertler 1989)
+	- Holmstrom and Tirole QJE (1997)
+	- Advances in dynamic models: Kiyotaki and Moore JPE (1997)
+	- Credit constraint in DSGE model: Bernanke, Gertler, Gilchrist (1999), Iacovello (2005)
 
