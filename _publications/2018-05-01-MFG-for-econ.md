@@ -15,4 +15,4 @@ It is known that the introduction of common noise (aggregate shocks) poses great
 
 In these <a href='https://thomasbourany.github.io/files/Pres_MFG_MiMh.pdf' style="color:blue">slides</a>, I provide an introduction to the mathematical literature of Mean Field Games, an overview of the article by Achdou, Han, Lasry, Lions and Moll (2018) and I describe a preliminary version of the project when introducing aggregate shocks.
 
-In this <a href='https://thomasbourany.github.io/files/Rapport Thomas Bourany_v1.pdf' style="color:blue">report</a>, I provide a complete description of the numerical methods implemented for the Krusell Smith model. 
+In this <a href='https://thomasbourany.github.io/files/MasterThesis ThomasBourany MFGwCommonNoise.pdf' style="color:blue">Master Thesis</a>, I provide a complete description of the mathematical setting and the numerical methods implemented for the Krusell Smith model and its extension. 
