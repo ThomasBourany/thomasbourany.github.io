@@ -17,7 +17,7 @@ Organization
 
 *Teaching assistant*: In charge of the TA sessions (exercises), Grading homework, tests, referee reports and exams.
 
-Lecture on optimisation for economics, on <a href='https://thomasbourany.github.io/files/Stochastic-processes-printable.pdf' style="color:blue">Probability Theory</a> (conditional expectations, Martingales and Markov Chains), on Asset Pricing.
+Lecture on optimisation for economics, on <a href='https://thomasbourany.github.io/files/Stochastic-processes-printable.pdf' style="color:blue">Probability Theory</a> (conditional expectations, Martingales and Markov Chains), on <a href='https://thomasbourany.github.io/files/Asset-Pricing-printable.pdf' style="color:blue">Asset Pricing</a>.
 
 Syllabus 
 ====== 
