@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Thomas Bourany"
   avatar           : "photolinkedin.jpg"
-  bio              : "Student in Mathematics (UPMC-Sorbonne) and Economics (U-Chicago)" #"Your biography for the left-hand sidebar"
+  bio              : "Student in Mathematics (UPMC-Sorbonne) and Economics (UChicago)" #"Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "thomasbourany 'at' sciencespo.fr"
+  email            : "thomasbourany 'at' uchicago.edu"
   uri              :
   bitbucket        :
   codepen          :
