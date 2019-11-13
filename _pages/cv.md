@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV <a href='https://thomasbourany.github.io/files/2018-CV-ThomasBourany.pdf' style="color:blue">here</a>
+You can download my CV <a href='https://thomasbourany.github.io/files/CV-ThomasBourany-2019.pdf' style="color:blue">here</a>
 
 {% include base_path %}
 
