@@ -19,7 +19,7 @@ In these <a href='https://thomasbourany.github.io/files/Pres_MFG_MiMh.pdf' style
 
 In this <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue">long version of my Master Thesis</a> (80 pages), I provide a complete description of the mathematical framework, the numerical methods to approximate the aggregate shocks and implementation for the Krusell Smith model (i) and its extensions (ii)-(iv). <br/>  <br/>
 
-In this <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> shorter article version </a> (25 pages) I only present the method applied to the Krusell Smith model. 
+In this <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> shorter article version </a> (25 pages) I only present the method applied to the Krusell Smith model. <br/>  <br/>
 
 In these <a href='https://thomasbourany.github.io/files/W1_TBourany_HA_AggShocks' style="color:blue">slides</a>, I describe briefly the different algorithms -- developed in the computational economics literature -- to handle heterogeneous agents models with aggregate shocks (i.e. MFG with common noise). 
 
