@@ -11,7 +11,7 @@ date: 2020-01-01
 
 With other graduate students from UChicago - the great Léo ! among others - we organize a small scale macro reading group. This aims at understanding the recent literature in theoretical and applied macroeconomics, usually discussed in seminars but not really covered in PhD classes.  <br/>  <br/>
 
-We usually meet on <b> Wednesday at 5:30 </b> in room 419 of the Saieh Hall of Economics, and organize usually one hour talk with:  <br> 
+We usually meet on <b> Wednesday at 5:30 </b> in room 419 of the Saieh Hall of Economics, and organize usually one hour talk with:
 <ul>
 <li> an introduction to a field, to understand and compare the approaches of different authors/papers </li>
 <li> a specific important/classical paper to be covered in details </li>
@@ -23,10 +23,10 @@ I covered heterogeneous agents models and different methods to handle aggregate 
 
 <h3> <b> Second meeting - January, 22 : Léo Aparisi De Lannoy </b> </h3>  
 Léo covered optimal policies in heterogeneous agents models. He discussed extensively
-Nuno and Moll (2018, RED) and made some comments on Nuno and Thomas (2019), and Bhandari-Evans-Golosov-Sargent (2018). The slides are <a href='https://thomasbourany.github.io/files/W2_LAParisiDeLannoy_HA_OptimalPolicy.pdf' style="color:blue">here</a>. <br/>  <br/>
+Nuno and Moll (2018, RED) and made some comments on Nuno and Thomas (2019), and Bhandari-Evans-Golosov-Sargent (2018). The slides are <a href='https://thomasbourany.github.io/files/W2_LAParisiDeLannoy_HA_OptimalPolicy.pdf' style="color:blue">here</a>. <br/>  
 
-<h3> <b> Third meeting - February, 5 : Aleksei Oskolkov  </b> </h3> <br> 
+<h3> <b> Third meeting - February, 5 : Aleksei Oskolkov  </b> </h3>
 Alex will cover models with variable mark-ups and nested CES, in the spirit of Atkeson and Burstein (2008). The slides will be uploaded  <a href='https://thomasbourany.github.io/files/W3_AOskolkov_NestedCES.pdf' style="color:blue">here</a>. <br/>  <br/>
 
-<h3> <b> Fourth meeting - February, 19 : TBD  </b> </h3> <br> 
+<h3> <b> Fourth meeting - February, 19 : TBD  </b> </h3> 
 We need a presenter for the future sessions! Feel free to reach out! 
