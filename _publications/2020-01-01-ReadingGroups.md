@@ -2,8 +2,8 @@
 title: "Beyond Macro Reading Group"
 collection: publication
 permalink: /publications/2020-01-01-ReadingGroups
-excerpt: 'We organize a reading in Macroeconomics with graduate students at UChicago, to explore recent literature in theoretical and applied works'
-date: 2020-01-01
+excerpt: 'We organize a reading in Macroeconomics with graduate students at UChicago, to explore the recent literature in theoretical and applied macro, and other related fields'
+date: 2020-01-20
 
 ---
 
@@ -26,7 +26,7 @@ Léo covered optimal policies in heterogeneous agents models. He discussed exten
 Nuno and Moll (2018, RED) and made some comments on Nuno and Thomas (2019), and Bhandari-Evans-Golosov-Sargent (2018). The slides are <a href='https://thomasbourany.github.io/files/W2_LAParisiDeLannoy_HA_OptimalPolicy.pdf' style="color:blue">here</a>. <br/>  
 
 <h3> <b> Third meeting - February, 5 : Aleksei Oskolkov  </b> </h3>
-Alex will cover models with variable mark-ups and nested CES, in the spirit of Atkeson and Burstein (2008). The slides will be uploaded  <a href='https://thomasbourany.github.io/files/W3_AOskolkov_NestedCES.pdf' style="color:blue">here</a>. <br/>  <br/>
+Alex will cover models with variable mark-ups and nested CES, in the spirit of Atkeson and Burstein (2008). The slides will be uploaded  <a href='https://thomasbourany.github.io/files/W3_AOskolkov_NestedCES.pdf' style="color:blue">here</a>. <br/> 
 
 <h3> <b> Fourth meeting - February, 19 : TBD  </b> </h3> 
 We need a presenter for the future sessions! Feel free to reach out! 
