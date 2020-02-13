@@ -15,4 +15,4 @@ With this paper, I try to build a bridge between these two literatures to questi
 When recast in continuous time, this model also presents another example of Mean Field Games with common noise (Heterogeneous Agents model with aggregate risk). Moreover, the objective of this paper is to provide a quantitative and empirical exercise through structural estimation (SMM). <br/>  <br/>
 
 
-A first proposal of this project (January 2019) can be found <a href='https://thomasbourany.github.io/files/ResearchProposal_ThomasBourany_MAPSS.pdf' style="color:blue">here</a>. </div>
+A preliminary version of this project (January 2020) can be found <a href='https://thomasbourany.github.io/files/CreditCycles_HetFirms_ThBourany_v2.pdf' style="color:blue">here</a>. </div>
