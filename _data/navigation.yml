@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "Resume"
-    url: /cv/
 
-  - title: "Research and Work in Progress"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
