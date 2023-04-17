@@ -5,25 +5,27 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in progress
+# Work in progress
 
 
 
-### **The Inequality of Climate Change and Optimal Energy Policy**. In progress, 2023
+## **The Inequality of Climate Change and Optimal Energy Policy**. In progress, 2023
 
 **Abstract**
 
 Climate change, caused by rising global temperatures, will disproportionately affect developing economies while hurting relatively less the developed countries responsible for significant greenhouse gas emissions. In this context, what is the optimal policy design for energy taxation in the context of inequality both in impacts and levels of development? Through the lens of an Integrated Assessment Model with heterogeneous countries, I analyze the costs of global warming and the trade-off of reducing emissions. I provide characterization for the Social Cost of Carbon (SCC), the nature of externalities, and the second-best Ramsey policy in this framework. The main finding is that, absent lump-sum transfers across countries, the optimal carbon tax is country-specific and depends on the level of development rather the expected vulnerability of the country. Moreover, the overall level and dynamics of the tax depend on the climate dynamics, the heterogeneity in damages across regions, the redistributive effects of the energy markets between importers and exporters, as well as the path of technology. To overcome the curse of dimensionality in this heterogeneous agents model, I propose a new numerical method relying on the sequential formulation to simulate the model globally, solve for optimal policy and potentially handle aggregate uncertainty.
 
 
-### **A Perturbational Approach for Approximating Heterogeneous-Agent Models**,  joint with Pr. A. Bhandari, D. Evans \& M. Golosov
+## **A Perturbational Approach for Approximating Heterogeneous-Agent Models**,  joint with Pr. A. Bhandari, D. Evans \& M. Golosov
 
 **Abstract**
 
 We develop a new perturbational technique to approximate equilibria of a broad class of stochastic heterogeneous-agent models with complex state spaces, such as multi-dimensional distributions of endogenous variables. A key insight of our approach is that it is possible to analytically characterize first, second, and higher-order approximations of the stochastic process that governs this distributional state. These characterizations have linear recursive structures, and we derive exact expressions for approximating coefficients as solutions to a small-dimensional linear system of equations. To the first order of approximation, our method is as fast and precise as existing state-of-the-art techniques that linearize heterogeneous agent models using so-called “MIT shocks,” but the ability to quickly scale to higher orders enables us to study a broader set of questions, such as the impact of risks, endogenous household portfolio formation, and welfare implications of macroeconomic stabilization policies.
 
 
-### **Supply chain disruptions and risk in international trade**, joint with Ignacia Cuevas. In progress, 2023.
+## **Supply chain disruptions and risk in international trade**, joint with Ignacia Cuevas. In progress, 2023.
+
+**Abstract**
 
  <i> Supply chain disruptions are becoming increasingly frequent, generating uncertainty for firms that trade internationally. Are firms taking this risk into account when choosing where to source from, by re-shoring, diversifying or changing their number and the type of suppliers they source from? To answer this question, we propose a multi-country sourcing model, inspired by Antras, Fort, and Tintelnot (2017) where firms self-select into importing based on productivity, cost minimization, and trade disruptions that increase the cost of importing. We find that even with aggregate or idiosyncratic uncertainty, a pecking order exists, and bigger firms self-select into importing from a larger set of suppliers. Nevertheless, quantitatively, risk does not seem to affect firms' sourcing strategy as much as the decrease in marginal cost that comes from increasing the set of suppliers.  </i>
 
@@ -38,10 +40,10 @@ We develop a new perturbational technique to approximate equilibria of a broad c
 
 <hr />
 
-## Pre PhD research projects
+# Pre PhD research projects
 
 
-### **Wealth distribution over the business cycle A mean-field game with common noise**
+## **Wealth distribution over the business cycle A mean-field game with common noise**
  
 
 Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -- Mathematics of Modelling), in internship at Paris-Diderot University (LJLL), under the supervision of Yves Achdou.  Long version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> (80 p.) here </a> with a complete description of the mathematical framework, and Short version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> (25 pages) here </a>. 
