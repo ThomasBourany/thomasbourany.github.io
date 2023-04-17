@@ -47,7 +47,7 @@ What is the influence of firm heterogeneity on credit cycles? Are recessions amp
 ## **Wealth distribution over the business cycle A mean-field game with common noise**
  
 
-Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -- Mathematics of Modelling), in internship at Paris-Diderot University (LJLL), under the supervision of Yves Achdou.  Long version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> (80 p.) here </a> with a complete description of the mathematical framework, and Short version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> (25 pages) here</a>. 
+Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -- Mathematics of Modelling), in internship at Paris-Diderot University (LJLL), under the supervision of Yves Achdou.  Long version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> (80 pages) here </a> with a complete description of the mathematical framework, and Short version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> (25 pages) here</a>. 
 
 
 &#123;details>
@@ -55,9 +55,13 @@ Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -
 The standard "Heterogeneous Agents" model -- by Aiyagari-Bewley-Huggett -- has recently been reformulated as a Mean Field Game (MFG) by Achdou, Han, Lasry, Lions, and Moll (2017). One key question in such model is to understand the transmission of aggregate shocks – on macroeconomic dynamics or the shape of the wealth distribution. With aggregate risk, this framework can thus be understood as a MFG with "common noise". However, solving such model is notoriously difficult, due to the "curse of dimensionality" arising when common noise interact with both the behavior and the distribution of agents. Economists usually simplify the model with a finite set of moments of the measure (bounded-rationality à la Krusell-Smith) or using Projection and Perturbation methods (a\` la Reiter). In contrast, we use new methods to keep the full dimensionality and simulate the model using a discretization procedure for the common noise. Considering a tree structure or (optimal) quantization to represent the trajectories of the common noise with a finite number of shocks, we solve the MFG system using specific finite-differences methods for the two PDEs. We apply this method to the standard framework, and two extensions (i) with Endogenous Labor Supply (ii) One Asset HANK model and we provide intuitions for (iii) the two Assets H.A. model (\`a la Kaplan-Moll-Violante). We show that such method might be relevant to analyze the transmission of large shocks on the economy. <br><br>
 &#123;/details>
 
+&#123;details>
+  &#123;summary>Click to expand!</summary>
+Hidden text
+&#123;/details>
 
 
-### **Fiscal policy in monetary union**
+## **Fiscal policy in monetary union**
 
 Master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). Short version [(20 p.) here](https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf) and longer version [(40 p.) here](https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf)
 
