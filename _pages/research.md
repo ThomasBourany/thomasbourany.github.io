@@ -41,7 +41,7 @@ author_profile: true
 # Pre PhD research projects
 
 
-## **Wealth distribution over the business cycle A mean-field game with common noise**
+## **Wealth distribution over the business cycle, A mean-field game with common noise**
  
 
 Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -- Mathematics of Modelling), in internship at Paris-Diderot University (LJLL), under the supervision of Yves Achdou.  Long version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> (80 pages) here </a> with a complete description of the mathematical framework, and Short version <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> (25 pages) here</a>. 
@@ -54,7 +54,9 @@ Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -
 
 ## **Fiscal policy in monetary union**
 
-Master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). Short version [(20 p.) here](https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf) and longer version [(40 p.) here](https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf)
+Master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). 
+
+Short version (20 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf' style="color:blue"> here</a> and  longer version (40 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf' style="color:blue"> here</a>.
 
 <span style="font-size:0.9em;line-height:-1em;"> **Abstract**: What are the effects of fiscal policy in a monetary union? This article explores the role of government spending, the optimal policy design and the spillovers of public spending shocks in an integrated union. I develop a two-countries New Keynesian model with "large economies", update the conclusions at stake in "small open economy" models, and provide a general framework where countries differ on many dimensions -- home-bias, agents preferences, price rigidities and labor supply. I first show that interaction effects and structural heterogeneity matter for optimal policy: the clear separation between central bank stabilizing the union and fiscal policies stabilizing country-specific shocks does not hold in this setting. Second, I identify the main transmission mechanisms of fiscal policy, with first a trade channel, through relative prices, and second a monetary response from the union central bank. The second channel largely dominates the first in this framework and spillovers of fiscal policy shocks crucially depend on the central bank mandate. This provides arguments supporting coordination between union central bank and fiscal authorities in the context of the European Monetary Union. 
 </span>
