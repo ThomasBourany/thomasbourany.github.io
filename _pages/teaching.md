@@ -37,7 +37,7 @@ Economics Department, UChicago, Econ 33502, Fall 2021
 
 Lectures taught by *Fernando Alvarez*. TA, grading and problem sets reviews ($\sim 15$ students). 
 
-*Syllabus:* 1. Consumption/Savings, Portfolio choice, 2. Adjustment costs 3. Price setting, Menu Cost models and Analysis of Monetary Shocks, 4. Continuous Time methods: Hamilton Jacobi Bellman and Kolmogorov Forward equations
+*Syllabus:* 1. Consumption/Savings, Portfolio choice, 2. Adjustment costs, Proportional, Fixed Cost and the Economics of Inaction 3. Price setting, Menu Cost models and Analysis of Monetary Shocks, 4. Continuous Time methods: Hamilton Jacobi Bellman and Kolmogorov Forward equations
 
 
 ## Macroeconomics 3: Macro Finance and Heterogenous Agents models
