@@ -15,7 +15,7 @@ Economics Department, UChicago, Econ 30400, Summer 2020, 2021, 2022.
 
 *Syllabus:* Probability theory, Stochastic Process, Fundamental of Statistics, Control Theory, Dynamic Programming, Intro to economics modeling, numerical methods and continuous time methods
 
-Lecture Notes: 
+*Lecture Notes:* 
 
 <a href='https://thomasbourany.github.io/files/Lecturenotes_MathCamp_part1_v1_ThB.pdf' style="color:blue">Part 1, Probability, Statistics and Stochastic Processes</a> 
 
@@ -26,7 +26,7 @@ Lecture Notes:
 
 Economics Department & Booth School of Business, UChicago, Busn 33949, Winter 2022
 
-Lectures by *Joe Vavra & Rohan Kekre*. 
+Lectures by **Joe Vavra & Rohan Kekre**. 
 TA, grading and problem sets reviews ($\sim 15$ students). 
 
 *Syllabus:* 1. New Keynesian Benchmark, Gali-Woodford, 2. Heterogeneity and Constraints on Monetary Policy, (McKay Nakamura Steinsson 2016, Werning 2015, Kaplan, Moll, and Violante 2018, Auclert 2019, Eggertsson and Krugman 2012, Farhi and Werning 2015, Kekre and Lenel 2021), 3. (S,s) Models: Macro Implications of Micro Inaction (Caplin Spulber 1987, Golosov and Lucas 2007, Vavra, 2014, Khan and Thomas, 2008, Winberry 2018), 4. Housing and Mortgage Market, (Berger, Guerrieri, Lorenzoni and Vavra 2018, Beraja, M., A. Fuster, E. Hurst and J. Vavra, 2018)
