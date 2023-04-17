@@ -1,5 +1,5 @@
 ---
-title: "Credit Cycles, Asset prices and Heterogeneous Firms"
+title: "*Syllabus:* "
 collection: publication
 permalink: /publications/2019-02-01-HetFirms-creditcycles
 excerpt: 'This project is part of my master thesis at the University of Chicago. It explores what are the effects of firms heterogeneity on assets prices and credit cycles during boom and bust.'
