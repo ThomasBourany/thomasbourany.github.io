@@ -31,7 +31,7 @@ Lectures taught by *Joe Vavra & Rohan Kekre*
 
 ## Macroeconomics 3: Macro Finance and Heterogenous Agents models
 
-Doctoral School, Sciences Po, Paris, Fall 2016 and 2017.
+Doctoral School, Sciences Po Paris, Fall 2016 and 2017.
 
 Lectures taught by **Xavier Ragot** (Sciences Po and CNRS)
 
@@ -50,21 +50,32 @@ Lectures taught by **Jean Barthelemy** (Sciences Po and Banque de France)
 
 
 
+<hr />
+
 # EMBA and MBA Courses
 
 
 ## Global Strategy and Economics
 
-Chicago Booth School of Business, EMBA, Busn 33850, London, Chicago, Singapore
+Chicago Booth School of Business, EMBA, Busn 33850, London, Chicago, Singapore, Spring 2022, 2023
+
+Lectures by **Guido Lorenzoni**
 
 ## International Financial Policy
 
-Chicago Booth School of Business, MBA, Chicago
+Chicago Booth School of Business, MBA, Busn 33502, Chicago, Spring 2020, 2021, 2022
+
+Lectures by **Rohan Kekre**
+
 
 ## Money and Banking
 
-Chicago Booth School of Business, MBA, Chicago
+Chicago Booth School of Business, MBA, Busn 33401, Chicago, Spring 2021
 
+Lectures by **Killian Huber**
+
+
+<hr />
 
 # Master in Public Affairs 
 
@@ -102,11 +113,14 @@ TA, grading, writing exams and makeup exams and supervising of students' researc
 *Syllabus:* Statistics and Econometrics for Public Policy: descriptive statistics, linear regressions.
 
 
+<hr />
+
+
 # Bachelor Courses
 
 ## Economic Policy 
 
-UChicago, The College, Spring 2019
+UChicago, The College, Econ 23950, Spring 2019
 
 *Syllabus:* 
 
