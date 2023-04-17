@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Research & Work in progress"
 permalink: /research/
 author_profile: true
 ---
-
-# Work in progress
-
 
 
 ## **The Inequality of Climate Change and Optimal Energy Policy**. In progress, 2023
@@ -16,7 +13,7 @@ author_profile: true
 </span>
 
 
-## **A Perturbational Approach for Approximating Heterogeneous-Agent Models**,  joint with Pr. Anmol Bhandari, David Evans & Mikhaïl. Golosov, In progress, 2023
+## **A Perturbational Approach for Approximating Heterogeneous-Agent Models**,  joint with Pr. Anmol Bhandari, David Evans & Mikhaïl Golosov, In progress, 2023
 
 <span style="font-size:0.95em;line-height:-0em;"> **Abstract**: We develop a new perturbational technique to approximate equilibria of a broad class of stochastic heterogeneous-agent models with complex state spaces, such as multi-dimensional distributions of endogenous variables. A key insight of our approach is that it is possible to analytically characterize first, second, and higher-order approximations of the stochastic process that governs this distributional state. These characterizations have linear recursive structures, and we derive exact expressions for approximating coefficients as solutions to a small-dimensional linear system of equations. To the first order of approximation, our method is as fast and precise as existing state-of-the-art techniques that linearize heterogeneous agent models using so-called “MIT shocks,” but the ability to quickly scale to higher orders enables us to study a broader set of questions, such as the impact of risks, endogenous household portfolio formation, and welfare implications of macroeconomic stabilization policies.
 </span>
@@ -25,6 +22,12 @@ author_profile: true
 ## **Supply chain disruptions and risk in international trade**, joint with Ignacia Cuevas. In progress, 2023.
 
 <span style="font-size:0.9em;line-height:-1em;"> **Abstract**: Supply chain disruptions are becoming increasingly frequent, generating uncertainty for firms that trade internationally. Are firms taking this risk into account when choosing where to source from, by re-shoring, diversifying or changing their number and the type of suppliers they source from? To answer this question, we propose a multi-country sourcing model, inspired by Antras, Fort, and Tintelnot (2017) where firms self-select into importing based on productivity, cost minimization, and trade disruptions that increase the cost of importing. We find that even with aggregate or idiosyncratic uncertainty, a pecking order exists, and bigger firms self-select into importing from a larger set of suppliers. Nevertheless, quantitatively, risk does not seem to affect firms' sourcing strategy as much as the decrease in marginal cost that comes from increasing the set of suppliers.
+</span>
+
+
+## **Energy shocks and aggregate fluctuations**, In progress, 2021.
+
+<span style="font-size:0.9em;line-height:-1em;"> **Abstract**: How important is energy for economic fluctuations? The energy sector – e.g. oil and electricity – is complementary in industrial production processes. A decline of energy sources – due to declining supply of fossil fuels (peak oil) – or political decisions to shrink greenhouse gas emissions – can have important implications for the macroeconomy. We measure the contribution of shocks to the energy sector to business cycles using a simple RBC model that features a high degree of complementarity and non-linearity in production. The first result shows that the expansion in energy supply was significant for output growth in the post-WWII period, and its vanishing can explain part of the decline since the second oil shock. Several experiments are performed to test for the likelihood of energy-less output growth and the impact of a carbon tax. We propose a multisector approach as an extension of our analysis and provide some preliminary empirical facts.
 </span>
 
 
@@ -54,9 +57,7 @@ Master thesis written in 2018, for the Master Mathematics at UPMC-Sorbonne (M2 -
 
 ## **Fiscal policy in monetary union**
 
-Master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). 
-
-Short version (20 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf' style="color:blue"> here</a> and  longer version (40 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf' style="color:blue"> here</a>.
+Master thesis written in 2016, for the Economic master EPP (Economics and Public Policy), under the supervision of Jean-Baptiste Michau (Ecole Polytechnique). Short version (20 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf' style="color:blue"> here</a> and  longer version (40 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf' style="color:blue"> here</a>.
 
 <span style="font-size:0.9em;line-height:-1em;"> **Abstract**: What are the effects of fiscal policy in a monetary union? This article explores the role of government spending, the optimal policy design and the spillovers of public spending shocks in an integrated union. I develop a two-countries New Keynesian model with "large economies", update the conclusions at stake in "small open economy" models, and provide a general framework where countries differ on many dimensions -- home-bias, agents preferences, price rigidities and labor supply. I first show that interaction effects and structural heterogeneity matter for optimal policy: the clear separation between central bank stabilizing the union and fiscal policies stabilizing country-specific shocks does not hold in this setting. Second, I identify the main transmission mechanisms of fiscal policy, with first a trade channel, through relative prices, and second a monetary response from the union central bank. The second channel largely dominates the first in this framework and spillovers of fiscal policy shocks crucially depend on the central bank mandate. This provides arguments supporting coordination between union central bank and fiscal authorities in the context of the European Monetary Union. 
 </span>
