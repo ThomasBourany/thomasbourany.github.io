@@ -26,7 +26,8 @@ Lecture Notes:
 
 Economics Department & Booth School of Business, UChicago, Busn 33949, Winter 2022
 
-Lectures taught by *Joe Vavra & Rohan Kekre*. TA, grading and problem sets reviews ($\sim 15$ students). 
+Lectures by *Joe Vavra & Rohan Kekre*. 
+TA, grading and problem sets reviews ($\sim 15$ students). 
 
 *Syllabus:* 1. New Keynesian Benchmark, Gali-Woodford, 2. Heterogeneity and Constraints on Monetary Policy, (McKay Nakamura Steinsson 2016, Werning 2015, Kaplan, Moll, and Violante 2018, Auclert 2019, Eggertsson and Krugman 2012, Farhi and Werning 2015, Kekre and Lenel 2021), 3. (S,s) Models: Macro Implications of Micro Inaction (Caplin Spulber 1987, Golosov and Lucas 2007, Vavra, 2014, Khan and Thomas, 2008, Winberry 2018), 4. Housing and Mortgage Market, (Berger, Guerrieri, Lorenzoni and Vavra 2018, Beraja, M., A. Fuster, E. Hurst and J. Vavra, 2018)
 
@@ -35,7 +36,8 @@ Lectures taught by *Joe Vavra & Rohan Kekre*. TA, grading and problem sets revie
 
 Economics Department, UChicago, Econ 33502, Fall 2021
 
-Lectures taught by *Fernando Alvarez*. TA, grading and problem sets reviews ($\sim 15$ students). 
+Lectures by **Fernando Alvarez**. 
+TA, grading and problem sets reviews ($\sim 15$ students). 
 
 *Syllabus:* 1. Consumption/Savings, Portfolio choice, 2. Adjustment costs, Proportional, Fixed Cost and the Economics of Inaction 3. Price setting, Menu Cost models and Analysis of Monetary Shocks, 4. Continuous Time methods: Hamilton Jacobi Bellman and Kolmogorov Forward equations
 
@@ -44,7 +46,8 @@ Lectures taught by *Fernando Alvarez*. TA, grading and problem sets reviews ($\s
 
 Doctoral School, Sciences Po Paris, Fall 2016 and 2017.
 
-Lectures taught by **Xavier Ragot** (Sciences Po and CNRS). TA, weekly review sessions, grading and problem sets reviews, ($\sim 25$ students). 
+Lectures by **Xavier Ragot** (Sciences Po and CNRS). 
+TA, weekly review sessions, grading and problem sets reviews, ($\sim 25$ students). 
 
 
 *Syllabus:* 1. Aggregation, 2. Credit constraints and incomplete insurance markets models (Bernanke, Gertler 1989, Holmstrom and Tirole QJE 1997, Kiyotaki and Moore JPE, 1997, Bernanke, Gertler, Gilchrist, 1999), 3. A primer on incomplete markets models (Woodford AER 1990, Mankiw JFE 1986, Money supply in OLG models), 4. Equity premium puzzle, (Mehra Prescott 1986, Epstein-Zin preferences, Weil 1989, Habit formation, Campbell-Cochrane JPE, 1999, Disaster events, Barro 2006), 5. "Classical" models of Heterogenous agents, (Bewley, 1983, Huggett JEDC 1993, Aiyagari QJE 1994). 6. Reduced-heterogeneity representations, Legrand-Ragot (2016/2017), 7. HA models with aggregate uncertainty (Krusell-Smith, 1998), 8. HANK and economic policy
@@ -56,7 +59,8 @@ Lectures on optimization for economics, on <a href='https://thomasbourany.github
 
 Economics Department, Sciences Po Paris, Fall 2016.
 
-Lectures taught by **Jean Barthelemy** (Sciences Po and Banque de France), TA, weekly review sessions and grading ($\sim 15$ students). 
+Lectures by **Jean Barthelemy** (Sciences Po and Banque de France),
+TA, weekly review sessions and grading ($\sim 15$ students). 
 
 *Syllabus:* 1. From Ricardian equivalence to non-neutrality, 2. Fiscal multipliers and the business cycle, 3. Insurance and Incentives, 4. Monetary Policy, Second Best, Time Inconsistency, 5. Monetary policy in practice and Empirics, 6. Interaction between monetary and fiscal policies, FTPL, ZLB and Central Bank independent. 
 
@@ -71,7 +75,8 @@ Lectures taught by **Jean Barthelemy** (Sciences Po and Banque de France), TA, w
 
 Chicago Booth School of Business, EMBA, Busn 33850, London, Chicago, Singapore, Spring 2022, 2023
 
-Lectures by **Guido Lorenzoni**,  TA, review sessions and grading ($\sim 150$ students). 
+Lectures by **Guido Lorenzoni**,  
+TA, review sessions and grading ($\sim 150$ students). 
 
 *Syllabus:* Exchange rates and Interest rates, UIP, CIP, Long run Exchange rate, PPP, International capital flows, Current Account and Balance of Payment, Debt and Currency crises. Textbook: Krugman, Obstfeld, and Melitz, International Economics: Theory & Policy
 
@@ -79,7 +84,8 @@ Lectures by **Guido Lorenzoni**,  TA, review sessions and grading ($\sim 150$ st
 
 Chicago Booth School of Business, MBA, Busn 33502, Chicago, Spring 2020, 2021, 2022
 
-Lectures by **Rohan Kekre**, TA and grading ($\sim 75-100$ students). 
+Lectures by **Rohan Kekre**, 
+TA and grading ($\sim 75-100$ students). 
 
 *Syllabus:* Exchange rates and Interest rates, UIP, CIP, Long run Exchange rate, PPP, International capital flows, Current Account and Balance of Payment, Debt and Currency crises. Textbook: Krugman, Obstfeld, and Melitz, International Economics: Theory & Policy
 
@@ -88,7 +94,8 @@ Lectures by **Rohan Kekre**, TA and grading ($\sim 75-100$ students).
 
 Chicago Booth School of Business, MBA, Busn 33401, Chicago, Spring 2021
 
-Lectures by **Killian Huber**, TA and grading ($\sim 75-100$ students). 
+Lectures by **Killian Huber**, 
+TA and grading ($\sim 75-100$ students). 
 
 
 <hr />
@@ -100,7 +107,7 @@ Lectures by **Killian Huber**, TA and grading ($\sim 75-100$ students).
 
 Sciences Po, Master in Economics and Public Policy, Spring 2016 
 
-Lectures taught by **Xavier Ragot** (OFCE - Sciences Po) and **Philippe Andrade** (Banque de France). 
+Lectures by **Xavier Ragot** (OFCE - Sciences Po) and **Philippe Andrade** (Banque de France). 
 
 *Syllabus:* IS-LM model ; OLG model, consumption smoothing ; Public debt and Ricardian Equivalence ; Fiscal Multipliers, theory and empirics ; AS-AD model ; Monetary policies and Expectations ; Euro Area Crisis and Monetary policy intervention.
 
@@ -108,7 +115,7 @@ Lectures taught by **Xavier Ragot** (OFCE - Sciences Po) and **Philippe Andrade*
 
 Sciences Po, Master in Economics and Public Policy, Fall 2016 and Spring 2018
 
-Lectures taught by **Thomas Chaney** (Sciences Po). 
+Lectures by **Thomas Chaney** (Sciences Po). 
 
 *Syllabus:* Measurement, Growth, Solow model and Endogenous growth, Overlapping Generation model, Money and Pensions, Expectations and the Lucas Critique, Uncertainty and the cost of Business Cycles
 
@@ -117,12 +124,12 @@ Lectures taught by **Thomas Chaney** (Sciences Po).
 
 Sciences Po Paris, School of Public Affairs, Fall 2015 
 
-Lectures taught by **Mark Stabile** (University of Toronto), TA and grading. 
+Lectures by **Mark Stabile** (University of Toronto), TA and grading. 
 
 *Syllabus:* Public economics for Public Policies: Externalities and Public Goods ; Social Insurance (health care system, education, unemployment) ; Taxation. Textbook: Public Finance and Public Policies, J. Gruber 
 
 ## Quantitative Analysis, Sciences Po Paris, School of Public Affairs, Fall 2015 (in French)
-Lectures taught by **Martial Foucault** (Sciences Po, LIEPP and CEVIPOF)
+Lectures by **Martial Foucault** (Sciences Po, LIEPP and CEVIPOF)
 
 TA, grading, writing exams and makeup exams and supervising of students' research projects.
 
