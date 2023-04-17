@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD student in Economics"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
