@@ -81,7 +81,7 @@ author:
   name             : "Thomas Bourany"
   avatar           : "photolinkedin.jpg"
   bio              : "Student in Mathematics (UPMC-Sorbonne) and Economics (UChicago)" #"Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Chicago, IL, USA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "thomasbourany 'at' uchicago.edu"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "TBourany"
   vine             :
   weibo            :
   xing             :
@@ -172,9 +172,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/    
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -212,10 +212,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
