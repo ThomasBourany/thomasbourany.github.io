@@ -19,9 +19,9 @@ author_profile: true
 </span>
 
 
-## **Supply chain disruptions and risk in international trade**, joint with Ignacia Cuevas. In progress, 2023.
+## **Supply chain disruptions and risk in international trade**, joint with Ignacia Cuevas and Gustávo Gonzalez. In progress, 2023.
 
-<span style="font-size:0.9em;line-height:-1em;"> **Abstract**: Supply chain disruptions are becoming increasingly frequent, generating uncertainty for firms that trade internationally. Are firms taking this risk into account when choosing where to source from, by re-shoring, diversifying or changing their number and the type of suppliers they source from? To answer this question, we propose a multi-country sourcing model, inspired by Antras, Fort, and Tintelnot (2017) where firms self-select into importing based on productivity, cost minimization, and trade disruptions that increase the cost of importing. We find that even with aggregate or idiosyncratic uncertainty, a pecking order exists, and bigger firms self-select into importing from a larger set of suppliers. Nevertheless, quantitatively, risk does not seem to affect firms' sourcing strategy as much as the decrease in marginal cost that comes from increasing the set of suppliers.
+<span style="font-size:0.9em;line-height:-1em;"> **Abstract**: Supply chain disruptions are becoming increasingly frequent, generating uncertainty for firms that trade internationally. Are firms taking this risk into account when choosing where to source from, by re-shoring, diversifying or changing their number and the type of suppliers they source from? To answer this question, we propose a multi-country sourcing model, inspired by Antras, Fort, and Tintelnot (2017) where firms self-select into importing based on productivity, cost minimization, and trade disruptions that increase the cost of importing. Even with aggregate or idiosyncratic uncertainty, we find that a pecking order exists, and bigger firms self-select into importing from a larger set of suppliers. Nevertheless, quantitatively, aggregate risk does not seem to affect firms' sourcing strategy on the extensive margin as much as the decrease in marginal cost that comes from increasing the set of suppliers. The model is estimated using custom data from Chile. 
 </span>
 
 
