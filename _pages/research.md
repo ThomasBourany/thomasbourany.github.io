@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper 
-### **The Optimal Design of Climate Agreements**: Inequality, Trade ad Incentives for Carbon Policy. In progress, 2024
+### **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy. In progress, 2024
 
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
