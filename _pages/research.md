@@ -18,7 +18,7 @@ Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimat
 
 
 ### **The Inequality of Climate Change and Optimal Energy Policy**
-In progress, 2024 <br>
+<span style="line-height: 1.2em;">In progress, 2024</span><br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue"> here</a>  <br>
 Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue"> here</a> 
 
@@ -28,7 +28,7 @@ Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_
 </p>
 
 ### **Supply Chain Uncertainty and Diversification**
-joint with Ignacia Cuevas and Gustávo Gonzalez. In progress, 2024.
+joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
 Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
@@ -37,8 +37,7 @@ Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cueva
 </p>
 
 ### **A Perturbational Approach for Approximating Heterogeneous-Agent Models**
-joint with Anmol Bhandari, David Evans & Mikhaïl Golosov,  <br>
-In progress, 2024 <br>
+joint with Anmol Bhandari, David Evans & Mikhaïl Golosov, In progress, 2024 <br>
 Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/651ef965000c0968dcf184a0/1696528741779/BBEG_master2.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
@@ -56,7 +55,7 @@ joint with Francois Le Grand, and Xavier Ragot, In progress, 2024
 </p>
 
 ### **When is aggregation enough? Aggregation and Projection with the Master Equation**
-In progress, 2024
+<span style="line-height: 1em;">In progress, 2024</span><br>
 Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
