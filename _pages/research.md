@@ -66,7 +66,7 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 
 
 ### **Energy shocks and aggregate fluctuations** <br>
-3rd year paper, 2021 <br>
+<span style="line-height: 1em;">3rd year paper, 2022</span><br>
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.7em;"> <strong>Abstract:</strong> How important is energy for economic fluctuations? The energy sector – e.g. oil and electricity – is complementary in industrial production processes. A decline in energy sources – due to a declining supply of fossil fuels (peak oil) – or political decisions to shrink greenhouse gas emissions – can have important implications for the macroeconomy. I analyze the contribution of shocks to the energy sector for business cycles fluctuations using a simple RBC model that features a high degree of complementarity and non-linearity in production. The first, I show that the expansion of energy supply was significant for output growth in the post-WWII period, and its decline can explain part of the slowdown in growth since the second oil shock. I show that energy shocks explain between 20 and 30\% of output volatility. I study the impact of a steady increase in carbon taxation and show it could dramatically reduce economic activity depending on the renewable energy supply elasticity. I propose a multi-sector approach as an extension of this analysis.
 </span>
@@ -74,7 +74,7 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 
 
 ### **Credit Cycles, Asset prices and Heterogeneous Firms** <br>
-2nd year paper <br>
+<span style="line-height: 1em;">2nd year paper, 2020</span><br>
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.7em;"> <strong>Abstract:</strong> What is the influence of firm heterogeneity on credit cycles? Are recessions amplified by the collapse of large companies or rather by the deleveraging of a multitude of small firms? This paper explores the influence of micro-level heterogeneity of firms on the transmission of macroeconomic shocks such as financial crises. I propose a theoretical framework with heterogeneous firms, with a  firm distribution can be skewed with a large tail as well as financial frictions such as collateral constraints and incomplete markets. I show that the interaction between these frictions create non-linear dynamics and amplification effects of aggregate risks. Simulating the model using continuous-time methods and finite-difference, I study the impact of different aggregate shocks, aggregate productivity, demand shocks, collateral quality and uncertainty shocks, and I explore the transmission channel to aggregate economic activity.
 </span>
