@@ -7,18 +7,17 @@ author_profile: true
 
 
 ## Job Market Paper 
-### **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy
+<h3> **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy</h3><br>
 In progress, 2024 <br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify;">
-<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> Fighting climate change requires ambitious global policies, which are undermined by free-riding incentives. Multilateral agreements and carbon tariffs are usually proposed to address this issue, c.f. Nordhaus (2015) among others. Moreover, climate policy has strong redistributive effects across countries due to inequality in income, climate impacts, effects on energy markets, or trade leakage, which exacerbate non-cooperation. In this context, how can we design a climate agreement that accounts for all these different channels to fight climate change? Through the lens of an Integrated Assessment Model (IAM) with heterogeneous countries and international trade, I study the taxation of carbon when countries can exit climate agreements. Participation constraints create a policy tradeoff between an intensive margin -- a ``climate club'' with few countries implementing large emission reductions – and an extensive margin — accommodating a larger number of countries at the cost of lowering the carbon tax. I solve for the optimal design of the club. Despite full discretion in the choice of carbon tax and tariffs, one cannot achieve the world’s optimal policy with complete participation. It can be beneficial to leave several fossil fuels producing and developing countries outside of the climate agreement. I explore how transfers, as proposed in the COP’s loss and damage fund, or fossil-fuel specific tariffs can increase abatement and welfare by mitigating the adverse redistributive effects of climate change and carbon taxation.
+<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> Fighting climate change requires ambitious global policies, which are undermined by free-riding incentives. Multilateral agreements and carbon tariffs are usually proposed to address this issue, c.f. Nordhaus (2015) among others. Moreover, climate policy has strong redistributive effects across countries due to inequality in income, climate impacts, effects on energy markets, or trade leakage, which exacerbate non-cooperation. In this context, how can we design a climate agreement that accounts for all these different channels to fight climate change? Through the lens of an Integrated Assessment Model (IAM) with heterogeneous countries and international trade, I study the taxation of carbon when countries can exit climate agreements. Participation constraints create a policy tradeoff between an intensive margin — a "climate club" with few countries implementing large emission reductions – and an extensive margin — accommodating a larger number of countries at the cost of lowering the carbon tax. I solve for the optimal design of the club. Despite full discretion in the choice of carbon tax and tariffs, one cannot achieve the world’s optimal policy with complete participation. It can be beneficial to leave several fossil fuels producing and developing countries outside of the climate agreement. I explore how transfers, as proposed in the COP’s loss and damage fund, or fossil-fuel specific tariffs can increase abatement and welfare by mitigating the adverse redistributive effects of climate change and carbon taxation.
 </span>
 </p>
 
 
-### **The Inequality of Climate Change and Optimal Energy Policy**
-<span style="line-height: 1.2em;">In progress, 2024</span><br>
+<h3> **The Inequality of Climate Change and Optimal Energy Policy</h3><br><span style="line-height: 1.2em;">In progress, 2024</span><br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue"> here</a>  <br>
 Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue"> here</a> 
 
@@ -27,8 +26,7 @@ Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_
 </span>
 </p>
 
-### **Supply Chain Uncertainty and Diversification**
-joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
+<h3> **Supply Chain Uncertainty and Diversification</h3><br>joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
 Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
@@ -36,44 +34,39 @@ Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cueva
 </span>
 </p>
 
-### **A Perturbational Approach for Approximating Heterogeneous-Agent Models**
-joint with Anmol Bhandari, David Evans & Mikhaïl Golosov, In progress, 2024 <br>
+<h3> **A Perturbational Approach for Approximating Heterogeneous-Agent Models</h3><br>joint with Anmol Bhandari, David Evans & Mikhaïl Golosov, In progress, 2024 <br>
 Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/651ef965000c0968dcf184a0/1696528741779/BBEG_master2.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
-<span style="font-size:0.8em;line-height:-0em;"> <strong>Abstract:</strong> We develop a perturbational technique to approximate equilibria of a wide class of discrete-time dynamic stochastic general equilibrium heterogeneous-agent models with complex state spaces, including multi-dimensional distributions of endogenous variables. We show that approximating policy functions and stochastic processes that govern the distributional state to any order is equivalent to solving small systems of linear equations that characterize values of certain directional derivatives. We analytically derive the coefficients of these linear systems and show that they satisfy simple recursive relations making their numerical implementation quick and efficient. Compared to existing state-of-the-art techniques, our method is faster in constructing first-order approximations and extends to higher orders, capturing the effects of risk that are ignored by many current methods. We illustrate how to apply our method to a broad set of questions such as impacts of first- and second-moment shocks, welfare effect of macroeconomic risk and stabilization policies, endogenous household portfolio formation, and transition dynamics in heterogeneous agent general equilibrium settings.
+<span style="font-size:0.8em;"> <strong>Abstract:</strong> We develop a perturbational technique to approximate equilibria of a wide class of discrete-time dynamic stochastic general equilibrium heterogeneous-agent models with complex state spaces, including multi-dimensional distributions of endogenous variables. We show that approximating policy functions and stochastic processes that govern the distributional state to any order is equivalent to solving small systems of linear equations that characterize values of certain directional derivatives. We analytically derive the coefficients of these linear systems and show that they satisfy simple recursive relations making their numerical implementation quick and efficient. Compared to existing state-of-the-art techniques, our method is faster in constructing first-order approximations and extends to higher orders, capturing the effects of risk that are ignored by many current methods. We illustrate how to apply our method to a broad set of questions such as impacts of first- and second-moment shocks, welfare effect of macroeconomic risk and stabilization policies, endogenous household portfolio formation, and transition dynamics in heterogeneous agent general equilibrium settings.
 </span>
 </p>
 
 
-### **Non-Keynesian stabilizers and wage-price spirals**
-joint with Francois Le Grand, and Xavier Ragot, In progress, 2024
+<h3> **Non-Keynesian stabilizers and wage-price spirals</h3><br>joint with Francois Le Grand, and Xavier Ragot, In progress, 2024
 
 <p style="text-align: justify; line-height: 1.2em;">
-<span style="font-size:0.8em;line-height:-0em;"> <strong>Abstract:</strong> When both prices and wages are subject to nominal frictions, a negative supply shock or a positive demand shock can trigger a wage-price spiral, as both nominal wages and prices adjust slowly. To analyze optimal policy in this environment, we consider a heterogeneous-agent model, with both wage and price stickiness. We derive joint optimal fiscal-monetary Ramsey policy, using a rich set of fiscal tools, for both supply and demand shocks. Studying various economies, we first find that time-varying labor tax is important to ensure price stability for demand shocks. Second, time-varying wage subsidy (to decrease the labor cost of firm) is the useful instrument for negative demand shocks. We call these policies a non-Keynesian stabilization policy because it does not operate directly through aggregate demand management. Finally, we show that the allocation is significantly different in the HA economy compared to the RA economy when public debt is a relevant tool.
+<span style="font-size:0.8em;"> <strong>Abstract:</strong> When both prices and wages are subject to nominal frictions, a negative supply shock or a positive demand shock can trigger a wage-price spiral, as both nominal wages and prices adjust slowly. To analyze optimal policy in this environment, we consider a heterogeneous-agent model, with both wage and price stickiness. We derive joint optimal fiscal-monetary Ramsey policy, using a rich set of fiscal tools, for both supply and demand shocks. Studying various economies, we first find that time-varying labor tax is important to ensure price stability for demand shocks. Second, time-varying wage subsidy (to decrease the labor cost of firm) is the useful instrument for negative demand shocks. We call these policies a non-Keynesian stabilization policy because it does not operate directly through aggregate demand management. Finally, we show that the allocation is significantly different in the HA economy compared to the RA economy when public debt is a relevant tool.
 </span>
 </p>
 
-### **When is aggregation enough? Aggregation and Projection with the Master Equation**
-<span style="line-height: 1em;">In progress, 2024</span><br>
+<h3> **When is aggregation enough? Aggregation and Projection with the Master Equation</h3><br><span style="line-height: 1em;">In progress, 2024</span><br>
 Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.2em;">
-<span style="font-size:0.8em;line-height:-0em;"> <strong>Abstract:</strong> In this paper, I study how the Master Equation -- developed in the Mean Field Games literature -- can be used for economic models with heterogeneous agents and aggregate risk. Using projection, we can bypass part of the assumption of bounded-rationality as in Krusell, Smith (1998): households still consider few moments of the distribution when making expectations but their dynamics are now fully non-linear and consistent with equilibrium outcomes. We can obtain a global characterization of the value, agent policy, and aggregate dynamics in a standard HA models I plan to study richer models with portfolio choice when approximate aggregation may not hold and perturbation methods can be limited.
+<span style="font-size:0.8em;line-height:-0em;"> <strong>Abstract:</strong> I study how the Master Equation -- developed in the Mean Field Games literature -- can be used for economic models with heterogeneous agents and aggregate risk. Using projection, we can bypass part of the assumption of bounded-rationality as in Krusell, Smith (1998): households still consider few moments of the distribution when making expectations but their dynamics are now fully non-linear and consistent with equilibrium outcomes. We can obtain a global characterization of the value, agent policy, and aggregate dynamics in a standard HA models I plan to study richer models with portfolio choice when approximate aggregation may not hold and perturbation methods can be limited.
 </span>
 </p>
 
 
-### **Energy shocks and aggregate fluctuations** <br>
-<span style="line-height: 1em;">3rd year paper, 2022</span><br>
+<h3> **Energy shocks and aggregate fluctuations</h3><br><span style="line-height: 1em;">3rd year paper, 2022</span><br>
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.7em;"> <strong>Abstract:</strong> How important is energy for economic fluctuations? The energy sector – e.g. oil and electricity – is complementary in industrial production processes. A decline in energy sources – due to a declining supply of fossil fuels (peak oil) – or political decisions to shrink greenhouse gas emissions – can have important implications for the macroeconomy. I analyze the contribution of shocks to the energy sector for business cycles fluctuations using a simple RBC model that features a high degree of complementarity and non-linearity in production. The first, I show that the expansion of energy supply was significant for output growth in the post-WWII period, and its decline can explain part of the slowdown in growth since the second oil shock. I show that energy shocks explain between 20 and 30\% of output volatility. I study the impact of a steady increase in carbon taxation and show it could dramatically reduce economic activity depending on the renewable energy supply elasticity. I propose a multi-sector approach as an extension of this analysis.
 </span>
 </p>
 
 
-### **Credit Cycles, Asset prices and Heterogeneous Firms** <br>
-<span style="line-height: 1em;">2nd year paper, 2020</span><br>
+<h3> **Credit Cycles, Asset prices and Heterogeneous Firms</h3><br><span style="line-height: 1em;">2nd year paper, 2020</span><br>
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.7em;"> <strong>Abstract:</strong> What is the influence of firm heterogeneity on credit cycles? Are recessions amplified by the collapse of large companies or rather by the deleveraging of a multitude of small firms? This paper explores the influence of micro-level heterogeneity of firms on the transmission of macroeconomic shocks such as financial crises. I propose a theoretical framework with heterogeneous firms, with a  firm distribution can be skewed with a large tail as well as financial frictions such as collateral constraints and incomplete markets. I show that the interaction between these frictions create non-linear dynamics and amplification effects of aggregate risks. Simulating the model using continuous-time methods and finite-difference, I study the impact of different aggregate shocks, aggregate productivity, demand shocks, collateral quality and uncertainty shocks, and I explore the transmission channel to aggregate economic activity.
 </span>
@@ -84,8 +77,7 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 
 ## Pre PhD research projects
 
-### **Wealth distribution over the business cycle, A mean-field game with common noise**
- 
+<h3> **Wealth distribution over the business cycle, A mean-field game with common noise</h3><br> 
 <p style="text-align: justify; line-height: 0.9em;">
 <span style="font-size:0.6em;"> Master thesis, 2018, Master in Mathematics at UPMC-Sorbonne, internship at Paris-Diderot University (LJLL),  supervision: Yves Achdou.  Long version (80 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> here </a> with a complete description of the mathematical framework, and Short version (25 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> here</a>.
 </span>
@@ -97,7 +89,7 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 </p>
 
 
-### **Fiscal policy in monetary union**
+<h3> **Fiscal policy in monetary union**</h3><br>
 
 <p style="text-align: justify; line-height: 0.9em;">
 <span style="font-size: 0.6em;"> Master thesis, 2016, Economic master EPP (Economics and Public Policy), supervision: Jean-Baptiste Michau (Ecole Polytechnique). Short version (20 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf' style="color:blue"> here</a> and  longer version (40 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf' style="color:blue"> here</a>.
