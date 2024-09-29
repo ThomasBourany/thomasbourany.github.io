@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper 
-### The Optimal Design of Climate Agreements: Inequality, Trade and Incentives for Carbon Policy
+<span style="font-size:1.5em; font-weight:bold;"> The Optimal Design of Climate Agreements: Inequality, Trade and Incentives for Carbon Policy</span><br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify;">
@@ -15,6 +15,8 @@ Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimat
 </span>
 </p>
 
+<hr />
+<hr />
 
 
 **The Inequality of Climate Change and Optimal Energy Policy**<br>
@@ -57,6 +59,8 @@ joint with Francois Le Grand, and Xavier Ragot, In progress, 2024
 **When is aggregation enough? Aggregation and Projection with the Master Equation**<br>
 <span style="line-height: 1em;">In progress, 2024</span><br>
 Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:blue"> here</a> 
+
+<hr />
 
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.8em;line-height:-0em;"> <strong>Abstract:</strong> I study how the Master Equation — developed in the Mean Field Games literature — can be used for economic models with heterogeneous agents and aggregate risk. Using projection, we can bypass part of the assumption of bounded-rationality as in Krusell, Smith (1998): households still consider few moments of the distribution when making expectations but their dynamics are now fully non-linear and consistent with equilibrium outcomes. We can obtain a global characterization of the value, agent policy, and aggregate dynamics in a standard HA models I plan to study richer models with portfolio choice when approximate aggregation may not hold and perturbation methods can be limited.
