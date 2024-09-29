@@ -16,7 +16,6 @@ Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimat
 </span>
 </p>
 
-</h3>
 
 
 <h3>The Inequality of Climate Change and Optimal Energy Policy</h3>
@@ -66,7 +65,7 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 </p>
 
 
-Energy shocks and aggregate fluctuations
+**Energy shocks and aggregate fluctuations**<br>
 <span style="line-height: 1em;">3rd year paper, 2022</span><br>
 <p style="text-align: justify; line-height: 1.2em;">
 <span style="font-size:0.7em;"> <strong>Abstract:</strong> How important is energy for economic fluctuations? The energy sector – e.g. oil and electricity – is complementary in industrial production processes. A decline in energy sources – due to a declining supply of fossil fuels (peak oil) – or political decisions to shrink greenhouse gas emissions – can have important implications for the macroeconomy. I analyze the contribution of shocks to the energy sector for business cycles fluctuations using a simple RBC model that features a high degree of complementarity and non-linearity in production. The first, I show that the expansion of energy supply was significant for output growth in the post-WWII period, and its decline can explain part of the slowdown in growth since the second oil shock. I show that energy shocks explain between 20 and 30\% of output volatility. I study the impact of a steady increase in carbon taxation and show it could dramatically reduce economic activity depending on the renewable energy supply elasticity. I propose a multi-sector approach as an extension of this analysis.
