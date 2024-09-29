@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas Bourany"
 title_separator          : "-"
 name                     : &name "Thomas Bourany"
-description              : &description "Student in Mathematics and Economics"
+description              : &description "PhD candidate in Economics"
 url                      : https://thomasbourany.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thomasbourany.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Thomas Bourany"
   avatar           : "photolinkedin.jpg"
-  bio              : "Student in Mathematics (UPMC-Sorbonne) and Economics (UChicago)" #"Your biography for the left-hand sidebar"
-  location         : "Chicago, IL, USA"
+  bio              : "PhD candidate in Economics - UChicago" #"Your biography for the left-hand sidebar"
+  location         : "Chicago"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "thomasbourany 'at' uchicago.edu"
@@ -175,13 +175,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/    
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
