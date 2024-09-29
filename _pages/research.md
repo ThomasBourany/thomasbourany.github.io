@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper 
-<span style="font-size:1.5em; font-weight:bold;"> The Optimal Design of Climate Agreements: Inequality, Trade and Incentives for Carbon Policy</span><br>
+<span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy</span><br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify;">
@@ -15,7 +15,7 @@ Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimat
 </span>
 </p>
 
-<hr />
+
 <hr />
 
 
@@ -84,12 +84,10 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 </p>
 
 <hr />
-<hr />
 
 ## Pre PhD research projects
 
-** Wealth distribution over the business cycle, A mean-field game with common noise**<br>
- 
+**Wealth distribution over the business cycle, A mean-field game with common noise**<br>
 <p style="text-align: justify; line-height: 0.9em;">
 <span style="font-size:0.6em;"> Master thesis, 2018, Master in Mathematics at UPMC-Sorbonne, internship at Paris-Diderot University (LJLL),  supervision: Yves Achdou.  Long version (80 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> here </a> with a complete description of the mathematical framework, and Short version (25 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> here</a>.
 </span>
@@ -106,7 +104,6 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 <span style="font-size: 0.6em;"> Master thesis, 2016, Economic master EPP (Economics and Public Policy), supervision: Jean-Baptiste Michau (Ecole Polytechnique). Short version (20 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-short-ThomasBourany.pdf' style="color:blue"> here</a> and  longer version (40 pages) <a href='https://thomasbourany.github.io/files/Master-thesis-ThomasBourany.pdf' style="color:blue"> here</a>.
 </span>
 </p>
-
 <p style="text-align: justify; line-height: 0.9em;">
 <span style="font-size: 0.6em;"> <strong>Abstract:</strong> What are the effects of fiscal policy in a monetary union? This article explores the role of government spending, the optimal policy design and the spillovers of public spending shocks in an integrated union. I develop a two-countries New Keynesian model with "large economies", update the conclusions at stake in "small open economy" models, and provide a general framework where countries differ on many dimensions -- home-bias, agents preferences, price rigidities and labor supply. I first show that interaction effects and structural heterogeneity matter for optimal policy: the clear separation between central bank stabilizing the union and fiscal policies stabilizing country-specific shocks does not hold in this setting. Second, I identify the main transmission mechanisms of fiscal policy, with first a trade channel, through relative prices, and second a monetary response from the union central bank. The second channel largely dominates the first in this framework and spillovers of fiscal policy shocks crucially depend on the central bank mandate. This provides arguments supporting coordination between union central bank and fiscal authorities in the context of the European Monetary Union. 
 </span>
