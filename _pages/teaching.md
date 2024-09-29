@@ -8,18 +8,19 @@ author_profile: true
 # Econ PhD and Master in Economics Courses
 
 ## Math Camp: Mathematical Methods In Economics
+
 Economics Department, UChicago, Econ 30400, Summer 2020, 2021, 2022.
 
 **Lecturer** for  PhD program ($\sim 25$ students) and Master program ($\sim 50$ students)
 
-<p style="text-align: justify; line-height: 1.0em;">
-<span style="font-size:0.75em;">
 *Syllabus:* Probability theory, Stochastic Process, Fundamental of Statistics, Control Theory, Dynamic Programming, Intro to economics modeling, numerical methods and continuous time methods
-*Lecture Notes:*
+
+*Lecture Notes:* 
+
 <a href='https://thomasbourany.github.io/files/Lecturenotes_MathCamp_part1_v1_ThB.pdf' style="color:blue">Part 1, Probability, Statistics and Stochastic Processes</a> 
+
 <a href='https://thomasbourany.github.io/files/Lecturenotes_MathCamp_part2_v1_ThB.pdf' style="color:blue">Part 2, Control theory, Dynamic programming and Econ Modeling</a>. 
-</span>
-</p>
+
 
 ## Applied Macroeconomics: Heterogeneity and Macro 
 
