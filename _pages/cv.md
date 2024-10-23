@@ -9,10 +9,8 @@ redirect_from:
 
 You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2024.pdf' style="color:blue">here</a>
 
-{% include base_path %}
 
-Education
-======
+
 
 * PhD, Economics -- University of Chicago (Expected, 2025) 
 
@@ -22,17 +20,6 @@ Education
 
 * Master, Economics -- EPP -- Sciences Po, Ecole Polytechnique and Ensae (Joint program), Paris, 2016
 
-* Dual Bachelor in Sciences and Social Sciences -- Sciences Po,  UPMC-Sorbonne (Dual Degree), Paris, 2014
+* Dual Bachelor in Sciences and Social Sciences -- Sciences Po and  UPMC-Sorbonne (Dual Degree), Paris, 2014
 
-Research and Work in progress
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
