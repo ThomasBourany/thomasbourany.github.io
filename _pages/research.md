@@ -66,8 +66,11 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 
 <hr />
 
+
+
 **Energy shocks and aggregate fluctuations**<br>
 <span style="line-height: 1em;">3rd year paper, 2022</span><br>
+Slides (preliminary) <a href='https://thomasbourany.github.io/files/EnergyinMacro_ThB_EconomicsDynamics_Oct2022_update.pdf' style="color:blue"> here</a> 
 <p style="text-align: justify; line-height: 1.0em;">
 <span style="font-size:0.75em;"> <strong>Abstract:</strong> How important is energy for economic fluctuations? The energy sector – e.g. oil and electricity – is complementary in industrial production processes. A decline in energy sources – due to a declining supply of fossil fuels (peak oil) – or political decisions to shrink greenhouse gas emissions – can have important implications for the macroeconomy. I analyze the contribution of shocks to the energy sector for business cycles fluctuations using a simple RBC model that features a high degree of complementarity and non-linearity in production. The first, I show that the expansion of energy supply was significant for output growth in the post-WWII period, and its decline can explain part of the slowdown in growth since the second oil shock. I show that energy shocks explain between 20 and 30\% of output volatility. I study the impact of a steady increase in carbon taxation and show it could dramatically reduce economic activity depending on the renewable energy supply elasticity. I propose a multi-sector approach as an extension of this analysis.
 </span>
