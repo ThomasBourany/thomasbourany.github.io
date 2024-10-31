@@ -52,12 +52,16 @@ Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t
 
 
 **Non-Keynesian stabilizers and wage-price spirals**<br>
-joint with Francois Le Grand, and Xavier Ragot, In progress, 2024
+joint with Francois Le Grand, and Xavier Ragot, In progress, 2024 <br>
+Draft (preliminary) <a href='https://francois-le-grand.com/docs/research/LRB_non-Keynesian.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;"> <strong>Abstract:</strong> When both prices and wages are subject to nominal frictions, a negative supply shock or a positive demand shock can trigger a wage-price spiral, as both nominal wages and prices adjust slowly. To analyze optimal policy in this environment, we consider a heterogeneous-agent model, with both wage and price stickiness. We derive joint optimal fiscal-monetary Ramsey policy, using a rich set of fiscal tools, for both supply and demand shocks. Studying various economies, we first find that time-varying labor tax is important to ensure price stability for demand shocks. Second, time-varying wage subsidy (to decrease the labor cost of firm) is the useful instrument for negative demand shocks. We call these policies a non-Keynesian stabilization policy because it does not operate directly through aggregate demand management. Finally, we show that the allocation is significantly different in the HA economy compared to the RA economy when public debt is a relevant tool.
 </span>
 </p>
+
+
+<hr />
 
 **When is aggregation enough? Aggregation and Projection with the Master Equation**<br>
 <span style="line-height: 1em;">In progress, 2024</span><br>
@@ -67,8 +71,14 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 </span>
 </p>
 
-<hr />
 
+**The Distributional Consequences of Climate Uncertainty**<br>
+<span style="line-height: 1em;">In progress, 2023</span><br>
+%Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:blue"> here</a> 
+<p style="text-align: justify; line-height: 1.1em;">
+<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> Future climate damages are largely unknown, due to climate system uncertainty and tipping points, as well as our lack of knowledge of its economic impacts. Moreover, the effects of this uncertainty are also heterogeneous, interacting with differences in incomes and temperatures across countries. Through the lens of an Integrated Assessment Model with heterogeneous countries and aggregate risk, I study whether uncertainty exacerbates the distributive impacts of global warming. I show analytically that the Social Cost of Carbon and the optimal carbon tax depend on the covariance of ex-ante heterogeneity due to inequality across countries and ex-post heterogeneity due to risk. Solving such models with non-linear dynamics, path-dependence, heterogeneity, and aggregate risk requires using a novel numerical method I developed relying on the Stochastic Pontryagin Maximum Principle (SPMP). Carbon taxation provides an insurance mechanism against those climate risks – which can be substantial given the curvature of utility and damage functions.
+</span>
+</p>
 
 
 **Energy shocks and aggregate fluctuations**<br>
