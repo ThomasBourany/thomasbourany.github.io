@@ -74,7 +74,6 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024
 
 **The Distributional Consequences of Climate Uncertainty**<br>
 <span style="line-height: 1em;">In progress, 2023</span><br>
-%Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:blue"> here</a> 
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> Future climate damages are largely unknown, due to climate system uncertainty and tipping points, as well as our lack of knowledge of its economic impacts. Moreover, the effects of this uncertainty are also heterogeneous, interacting with differences in incomes and temperatures across countries. Through the lens of an Integrated Assessment Model with heterogeneous countries and aggregate risk, I study whether uncertainty exacerbates the distributive impacts of global warming. I show analytically that the Social Cost of Carbon and the optimal carbon tax depend on the covariance of ex-ante heterogeneity due to inequality across countries and ex-post heterogeneity due to risk. Solving such models with non-linear dynamics, path-dependence, heterogeneity, and aggregate risk requires using a novel numerical method I developed relying on the Stochastic Pontryagin Maximum Principle (SPMP). Carbon taxation provides an insurance mechanism against those climate risks – which can be substantial given the curvature of utility and damage functions.
 </span>
