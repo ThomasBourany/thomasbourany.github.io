@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper 
-<span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy</span><br>
+<span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade, and Incentives for Climate Policy</span><br>
 
 Draft (preliminary, update coming soon) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_draft.pdf' style="color:blue"> here</a>. Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a>. <br>
 <span style="font-size:0.8em;">Presentations: E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:blue">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago).</span>
