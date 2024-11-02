@@ -39,8 +39,7 @@ Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimat
 
 **Supply Chain Uncertainty and Diversification**<br>
 joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
-Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. 
-
+Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
 Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar. 
  
 <p style="text-align: justify; line-height: 1.1em;">
