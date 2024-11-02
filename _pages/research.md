@@ -8,10 +8,12 @@ author_profile: true
 
 ## Job Market Paper 
 <span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade and Incentives for Carbon Policy</span><br>
-Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
 Draft (preliminary, update coming soon) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_draft.pdf' style="color:blue"> here</a> 
 
+Presentation: E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:blue"> webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago)
+
+Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a> 
 
 <p style="text-align: justify;">
 <span style="font-size:1.0em;line-height:-0em;"> <strong>Abstract:</strong> Fighting climate change requires ambitious global policies, which are undermined by free-riding incentives. The heterogeneity in both the impacts of climate change and the costs of carbon taxation exacerbate non-cooperation, which makes the implementation of multilateral climate agreements difficult. This paper studies how to design an optimal climate club — in the spirit of Nordhaus (2015) — to maximize global welfare, incorporating strategic behavior when countries can exit climate agreements. In an Integrated Assessment Model with heterogeneous countries and international trade, I study the choice of countries in the agreement, the optimal level of carbon tax that members set on fossil fuels, and the tariffs they impose on non-members to incentivize participation. The decision balances an intensive margin — a club with few countries and large individual emission reductions — and an extensive margin — accommodating more countries at the cost of lowering the carbon tax. I find that the optimal climate club consists of all countries except Russia, a \$100 tax per ton of $CO_2$ within the club, and a 50$\%$ tariff on goods from non-members. In contrast, the globally optimal carbon tax is \$150 when free-riding is absent. In several extensions, I study additional policy instruments, such as transfers or fossil-fuel-specific tariffs, and examine the effects of trade retaliation for the stability of climate agreements.
@@ -29,7 +31,9 @@ Draft (preliminary, update coming soon) <a href='https://thomasbourany.github.io
 **Inequality, Climate Change, and the Optimal Climate Policy**<br>
 <span style="line-height: 1.2em;">In progress, 2024</span><br>
 Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue"> here</a>  <br>
-Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue"> here</a> 
+Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue"> here</a>. 
+
+Presentation: NBER-SI Macro-Public Finance (Boston), SED (Barcelona), EEA Meeting (Rotterdam), Yiran Fan Memorial Conference (UChicago). 
 
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;"> <strong>Abstract:</strong> What is the optimal policy to fight climate change? Taxation of carbon and fossil fuels has strong redistributive effects across countries: (i) curbing energy demand is costly for developing economies, which are the most affected by climate change in the first place, (ii) taxation has strong general equilibrium effects through energy markets and trade reallocation. Through the lens of an Integrated Assessment Model (IAM) with heterogeneous countries, I show that optimal carbon policy depends crucially on the availability of redistribution instruments. After characterizing the Social Cost of Carbon (SCC), I derive formulas for second-best fossil fuel taxes in the presence of inequalities in climate damages and incomes, redistributive and distortionary effects on energy markets. I show that a uniform carbon should be reduced twofold in the presence of inequality. If country-specific carbon taxes are available, the distribution of carbon prices is proportionally related to the level of income: poor and hot countries should pay lower energy taxes than rich and cold countries. These qualitative results are general and I propose a dynamic quantitative model to provide recommendation for the optimal path of carbon tax.
@@ -38,8 +42,10 @@ Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_
 
 **Supply Chain Uncertainty and Diversification**<br>
 joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
-Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a> 
+Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. 
 
+Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar. 
+ 
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;"> <strong>Abstract:</strong> Supply chain disruptions have become increasingly frequent, generating substantial uncertainty for companies that rely on sourcing inputs for production. We investigate how firms facing supply chain uncertainty adapt their sourcing strategies, by diversifying foreign suppliers, re-shoring, or selecting suppliers based on cost and risk considerations. To answer these questions, we develop a multi-country sourcing model inspired by Antras, Fort, and Tintelnot (2017), in which firms choose where to import from, accounting for international supply-chain disruptions. Our findings reveal that mean-preserving uncertainty introduces a positive option value associated with diversifying the set of suppliers. However, country-specific aggregate risk also features hedging motives, yielding ambiguous predictions on firms' sourcing decisions. Leveraging firm-level data from Chile, we use this structural model to estimate supply chain risk over time for major trade partners as well as fixed costs of sourcing. We assess the impact of the recent surge in trade risk following the Covid-19 pandemic, and we perform counterfactual exercises to evaluate how this affected firms' sourcing strategies. Our results indicate that the observed change in sourcing patterns correspond more to changes in expected costs rather than solely to increases in risk. 
 </span>
