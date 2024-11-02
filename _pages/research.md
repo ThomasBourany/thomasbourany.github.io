@@ -107,6 +107,9 @@ Slides (preliminary) <a href='https://thomasbourany.github.io/files/EnergyinMacr
 
 ## Pre PhD research projects
 
+<hr />
+
+
 **Wealth distribution over the business cycle, A mean-field game with common noise**<br>
 <p style="text-align: justify; line-height: 0.85em;">
 <span style="font-size:0.65em;"> Master thesis, 2018, Master in Mathematics at UPMC-Sorbonne, internship at Paris-Diderot University (LJLL),  supervision: Yves Achdou.  Long version (80 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise.pdf' style="color:blue"> here </a> with a complete description of the mathematical framework, and Short version (25 pages) <a href='https://thomasbourany.github.io/files/MasterThesis_ThomasBourany_MFGwCommonNoise_short.pdf' style="color:blue"> here</a>.
