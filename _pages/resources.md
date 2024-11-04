@@ -7,11 +7,15 @@ author_profile: true
 
 ## Presentations in Economics
 
+- Di Tella, Hebert, Kurlat (2024), <a href='https://thomasbourany.github.io/files/resources/Aggregation_Liquidity_DiTellaetal_2024.pdf' style="color:blue">Aggregation, Liquidity, and Asset Prices with Incomplete Markets</a>, Macro Reading Group, 2024. 
+
+- Weitzman (2003), <a href='https://thomasbourany.github.io/files/resources/Weitzman.pdf' style="color:blue">Price vs. Quantity</a>, Macro Reading Group, 2023. 
+
 - Rudik, Lyn, Tan, Ortiz-Bobea (2022), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_ThBourany_RLTO_2022.pdf' style="color:blue">The Economic Effects of Climate Change in Dynamic Spatial Equilibrium</a>, Spatial Environment Reading Group, 2022.
 
-- Dietz, van der Ploeg, Rezai, Venmans (2022), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_Climate_IAMs.pdf' style="color:blue">Are Economists Getting Climate Dynamics Right and Does it Matter?</a>, Macro Reading Group, 2022. 
-
 - Lorenzoni, Werning (2023), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_Wage_price_spirals.pdf' style="color:blue">Wage Price Spirals</a>, Macro Reading Group, 2023. 
+
+- Dietz, van der Ploeg, Rezai, Venmans (2022), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_Climate_IAMs.pdf' style="color:blue">Are Economists Getting Climate Dynamics Right and Does it Matter?</a>, Macro Reading Group, 2022. 
 
 - Heathcote, Storesletten, Violante (2010), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_ThBourany_HSV_2010_JPE.pdf' style="color:blue">The Macroeconomic Implications of Rising Wage Inequality in the United States</a>, Macro Reading Group, 2022. 
 
@@ -43,7 +47,8 @@ author_profile: true
 - Cvitanic, Possamai, Touzi (2016), <a href='https://thomasbourany.github.io/files/resources/CvitanicPossamaiTouzi_soutenance.pdf' style="color:blue">Dynamic programming approach to Principal-Agent problems</a>, Variational Problems and Optimal Transport course, Paris, 2018. 
 
 - Carmona, Wang (2016), <a href='https://thomasbourany.github.io/files/resources/Carmona Wang MajMin Slides Soutenance.pdf' style="color:blue">Mean Field Game with Major and Minor players and applications to LQ games and Flocking models</a>, Mean Field Games theory course, Paris, 2018. 
-
+
+
 {% include base_path %}
 
 {% for post in site.resources reversed %}
