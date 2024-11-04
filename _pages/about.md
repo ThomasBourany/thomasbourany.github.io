@@ -13,5 +13,5 @@ I am Thomas Bourany, a PhD candidate in Economics at the University of Chicago. 
 
 I am on the 2024-2025 Academic Job Market. <br/>  <br/>
 
-You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2024.pdf' style="color:blue">here</a> and contact me at <a href='mailto:thomasbourany-- at--uchicago.edu' style="color:blue">thomasbourany'at'uchicago.edu</a>. 
+You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2024.pdf' style="color:blue">CV here</a> and contact me at <a href='mailto:thomasbourany-- at--uchicago.edu' style="color:blue">thomasbourany'at'uchicago.edu</a>.
 

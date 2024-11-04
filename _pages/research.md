@@ -9,10 +9,9 @@ author_profile: true
 ## Job Market Paper 
 <span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade, and Incentives for Climate Policy</span><br>
 
-Draft (preliminary, update coming soon) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_draft.pdf' style="color:blue"> here</a>. Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> here</a>. <br>
+<a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_draft.pdf' style="color:blue">JMP Draft</a> (preliminary, update coming soon). <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> JMP Slides here</a>. <br>
 <span style="font-size:0.8em;">Presentations: E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:blue">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago).</span>
 
- 
 
 <p style="text-align: justify;">
 <span style="font-size:1.0em;line-height:-0em;"> <strong>Abstract:</strong> Fighting climate change requires ambitious global policies, which are undermined by free-riding incentives. The heterogeneity in both the impacts of climate change and the costs of carbon taxation exacerbate non-cooperation, which makes the implementation of multilateral climate agreements difficult. This paper studies how to design an optimal climate club — in the spirit of Nordhaus (2015) — to maximize global welfare, incorporating strategic behavior when countries can exit climate agreements. In an Integrated Assessment Model with heterogeneous countries and international trade, I study the choice of countries in the agreement, the optimal level of carbon tax that members set on fossil fuels, and the tariffs they impose on non-members to incentivize participation. The decision balances an intensive margin — a club with few countries and large individual emission reductions — and an extensive margin — accommodating more countries at the cost of lowering the carbon tax. I find that the optimal climate club consists of all countries except Russia, a \$100 tax per ton of $CO_2$ within the club, and a 50$\%$ tariff on goods from non-members. In contrast, the globally optimal carbon tax is \$150 when free-riding is absent. In several extensions, I study additional policy instruments, such as transfers or fossil-fuel-specific tariffs, and examine the effects of trade retaliation for the stability of climate agreements.
@@ -29,7 +28,7 @@ Draft (preliminary, update coming soon) <a href='https://thomasbourany.github.io
 
 **Inequality, Climate Change, and the Optimal Climate Policy**<br>
 <span style="line-height: 1.2em;">In progress, 2024</span><br>
-Slides <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue"> here</a>, Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue"> here</a>. <br>
+<a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue">Slides here</a>, <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Draft here</a> (preliminary). <br>
 <span style="font-size:0.8em;">Presentations: NBER-SI Macro-Public Finance (Boston), SED (Barcelona), EEA Meeting (Rotterdam), Yiran Fan Memorial Conference (UChicago). </span>
 
 <p style="text-align: justify; line-height: 1.1em;">
