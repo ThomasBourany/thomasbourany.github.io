@@ -36,13 +36,13 @@ author_profile: true
 
 ## Presentations in Mathematics and Computational Economics
 
-- Mean Field Games for Economics (JMP, 2018), <a href='https://thomasbourany.github.io/files/resources/Workshop_Numerics_MFGs_TBourany.pdf' style="color:blue">Review of the Literature on Mean Field Games and Numerical Methods in Economics</a>, MFG workshop: Economists meet mathematicians, Chicago, 2020. 
+- Mean Field Games for Economics, <a href='https://thomasbourany.github.io/files/resources/Workshop_Numerics_MFGs_TBourany.pdf' style="color:blue">Review of the Literature on Mean Field Games and Numerical Methods in Economics</a>, MFG workshop: Economists meet mathematicians, Chicago, 2020. 
 
 - Carmona, Delarue (2015), <a href='https://thomasbourany.github.io/files/resources/Slides Thomas Bourany FBSDE & MKV control.pdf' style="color:blue">Forward-Backward Stochastic Differential equations and controlled McKean-Vlasov Dynamics</a>, Stochastic Control for market imperfection models course, Paris, 2018. 
 
 - Cvitanic, Possamai, Touzi (2016), <a href='https://thomasbourany.github.io/files/resources/CvitanicPossamaiTouzi_soutenance.pdf' style="color:blue">Dynamic programming approach to Principal-Agent problems</a>, Variational Problems and Optimal Transport course, Paris, 2018. 
 
-- Carmona Wang (2016), <a href='https://thomasbourany.github.io/files/resources/Carmona Wang MajMin Slides Soutenance.pdf' style="color:blue">Mean Field Game with Major and Minor players and applications to LQ games and Flocking models</a>, Mean Field Games theory course, Paris, 2018. 
+- Carmona, Wang (2016), <a href='https://thomasbourany.github.io/files/resources/Carmona Wang MajMin Slides Soutenance.pdf' style="color:blue">Mean Field Game with Major and Minor players and applications to LQ games and Flocking models</a>, Mean Field Games theory course, Paris, 2018. 
 
 {% include base_path %}
 
