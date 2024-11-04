@@ -31,7 +31,7 @@ author_profile: true
 
 - Molavi (JMP, 2018), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_TBourany_MolaviJMP.pdf' style="color:blue">Macroeconomics with Learning and Misspecifications, A General Theory and Applications</a>, Macro Reading Group, 2018. 
 
-- Computational Macroeconomics, <a href='https://thomasbourany.github.io/files/resources/W1_TBourany_HA_AggShocks.pdf' style="color:blue">Review of the Literature on Heterogeneous Agents with Aggregate Shocks</a>, Beyond MacroGroup, 2018. <br>
+- Computational Macroeconomics, <a href='https://thomasbourany.github.io/files/resources/W1_TBourany_HA_AggShocks.pdf' style="color:blue">Review of the Literature on Heterogeneous Agents with Aggregate Shocks</a>, Beyond Macro Group, 2018. <br>
 
 
 ## Presentations in Mathematics and Computational Economics
