@@ -39,14 +39,11 @@ author_profile: true
 
 **Supply Chain Uncertainty and Diversification**<br>
 joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
-**New draft (January 4)** (Submitted) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
+**New draft (January 4, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
 <span style="font-size:0.8em;">Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar.</span>
  
 <p style="text-align: justify; line-height: 1.1em;">
-<span style="font-size:0.9em;"> <strong>Abstract:</strong> How do firms adapt their sourcing strategies when faced with supply chain uncertainty? To answer this question, we develop a multi-country sourcing model, in which firms choose where to import from, accounting for the possibility of supply-chain disruptions. We show that uncertainty introduces a positive option value, that favors diversifying the set of suppliers. However, country-specific uncertainty creates hedging motives for firms, yielding on net ambiguous predictions about sourcing decisions. We estimate the model on Chilean Customs data and we study how the recent increase in trade risk, following the Covid-19 pandemic, affected firms’ sourcing strategies. We find that the observed change in sourcing patterns results from both changes in expected costs and increased risk.
-
-
-</span>
+<span style="font-size:0.9em;"> <strong>Abstract:</strong> How do firms adapt their sourcing strategies when faced with supply chain uncertainty? To answer this question, we develop a multi-country sourcing model, in which firms choose where to import from, accounting for the possibility of supply-chain disruptions. We show that uncertainty introduces a positive option value, that favors diversifying the set of suppliers. However, country-specific uncertainty creates hedging motives for firms, yielding on net ambiguous predictions about sourcing decisions. We estimate the model on Chilean Customs data and we study how the recent increase in trade risk, following the Covid-19 pandemic, affected firms’ sourcing strategies. We find that the observed change in sourcing patterns results from both changes in expected costs and increased risk.</span>
 </p>
 
 **A Perturbational Approach for Approximating Heterogeneous-Agent Models**<br>
