@@ -27,7 +27,7 @@ author_profile: true
 
 
 
-**Inequality, Climate Change, and the Optimal Climate Policy**<br>
+**Climate Change, Inequality, and the Optimal Climate Policy**<br>
 <span style="line-height: 1.2em;">In progress, 2024</span><br>
 <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue">Slides here</a>, <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Draft here</a> (preliminary). <br>
 <span style="font-size:0.8em;">Presentations: NBER-SI Macro-Public Finance (Boston), SED (Barcelona), EEA Meeting (Rotterdam), Yiran Fan Memorial Conference (UChicago). </span>
@@ -39,11 +39,13 @@ author_profile: true
 
 **Supply Chain Uncertainty and Diversification**<br>
 joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
-Draft (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
+**New draft (January 4)** (Submitted) <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
 <span style="font-size:0.8em;">Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar.</span>
  
 <p style="text-align: justify; line-height: 1.1em;">
-<span style="font-size:0.9em;"> <strong>Abstract:</strong> Supply chain disruptions have become increasingly frequent, generating substantial uncertainty for companies that rely on sourcing inputs for production. We investigate how firms facing supply chain uncertainty adapt their sourcing strategies, by diversifying foreign suppliers, re-shoring, or selecting suppliers based on cost and risk considerations. To answer these questions, we develop a multi-country sourcing model inspired by Antras, Fort, and Tintelnot (2017), in which firms choose where to import from, accounting for international supply-chain disruptions. Our findings reveal that mean-preserving uncertainty introduces a positive option value associated with diversifying the set of suppliers. However, country-specific aggregate risk also features hedging motives, yielding ambiguous predictions on firms' sourcing decisions. Leveraging firm-level data from Chile, we use this structural model to estimate supply chain risk over time for major trade partners as well as fixed costs of sourcing. We assess the impact of the recent surge in trade risk following the Covid-19 pandemic, and we perform counterfactual exercises to evaluate how this affected firms' sourcing strategies. Our results indicate that the observed change in sourcing patterns correspond more to changes in expected costs rather than solely to increases in risk. 
+<span style="font-size:0.9em;"> <strong>Abstract:</strong> How do firms adapt their sourcing strategies when faced with supply chain uncertainty? To answer this question, we develop a multi-country sourcing model, in which firms choose where to import from, accounting for the possibility of supply-chain disruptions. We show that uncertainty introduces a positive option value, that favors diversifying the set of suppliers. However, country-specific uncertainty creates hedging motives for firms, yielding on net ambiguous predictions about sourcing decisions. We estimate the model on Chilean Customs data and we study how the recent increase in trade risk, following the Covid-19 pandemic, affected firms’ sourcing strategies. We find that the observed change in sourcing patterns results from both changes in expected costs and increased risk.
+
+
 </span>
 </p>
 
