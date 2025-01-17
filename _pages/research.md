@@ -29,7 +29,7 @@ author_profile: true
 
 **Climate Change, Inequality, and the Optimal Climate Policy**<br>
 <span style="line-height: 1.2em;">In progress, 2024</span><br>
-<a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue">Slides here</a>, <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Draft here</a> (preliminary). <br>
+<a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue">Slides here</a>, <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Paper here</a> (updated January 2025). <br>
 <span style="font-size:0.8em;">Presentations: NBER-SI Macro-Public Finance (Boston), SED (Barcelona), EEA Meeting (Rotterdam), Yiran Fan Memorial Conference (UChicago). </span>
 
 <p style="text-align: justify; line-height: 1.1em;">
