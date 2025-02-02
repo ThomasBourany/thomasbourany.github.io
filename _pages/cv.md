@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2024.pdf' style="color:blue">here</a>
+You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2025.pdf' style="color:blue">here</a>
 
 
 
