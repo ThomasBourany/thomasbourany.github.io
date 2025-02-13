@@ -19,6 +19,10 @@ author_profile: true
 
 - Heathcote, Storesletten, Violante (2010), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_ThBourany_HSV_2010_JPE.pdf' style="color:blue">The Macroeconomic Implications of Rising Wage Inequality in the United States</a>, Macro Reading Group, 2022. 
 
+- Heal, Schenkler (2019), <a href='https://thomasbourany.github.io/files/resources/Slides_HealSchlenker_ThB.pdf' style="color:blue">Coase, Hotelling and Pigou: The Incidence of a Carbon Tax and CO2 Emissions</a>, Energy and Environmental Econ class, 2020. 
+
+- Song, Price, Guvenen, Bloom, Von Wachter (2019), <a href='https://thomasbourany.github.io/files/resources/FirmingUpInequality.pdf' style="color:blue">Firming up inequality</a>, Labor Econ class, 2020. 
+
 - Baqaee, Fahri (2020), <a href='https://thomasbourany.github.io/files/resources/FahriBaqaee_2020_Disagg_ASAD_Covid.pdf' style="color:blue">Supply and Demand in Disaggregated Keynesian Economics, with an Application to the Covid-19 Crisis</a>, Macro Reading Group, 2020. 
 
 - Heathcote, Storesletten, Violante (2014), <a href='https://thomasbourany.github.io/files/resources/HSV_Conso-Labor-RiskSharing.pdf' style="color:blue">Consumption and Labor Supply with Partial Insurance: An Analytical Framework</a>, Structural Metrics Reading Group, 2020. 
@@ -30,6 +34,8 @@ author_profile: true
 - Production Networks in Macroeconomics, <a href='https://thomasbourany.github.io/files/resources/ThBourany_NetworkforMacro.pdf' style="color:blue">Review of the Literature</a>, Macro and Monetary Econ Group, 2020. 
 
 - Schaab (JMP, 2020), <a href='https://thomasbourany.github.io/files/resources/Slides_Schaab_JMP.pdf' style="color:blue">Micro and Macro Uncertainty</a>, Macro Reading Group, 2020. 
+
+- Farhi. Gabaix (2020), <a href='https://thomasbourany.github.io/files/resources/PublicFinance_Presentation_FarhiGabaix.pdf' style="color:blue">Firming up inequality</a>, Public Finance class, 2019. 
 
 - Straub, Werning (2018), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_TBourany_StraubWerning_CapitalTaxation.pdf' style="color:blue">Positive Long-run Capital Taxation: Chamley-Judd Revisited</a>, Macro Reading Group, 2019. 
 
