@@ -35,7 +35,7 @@ author_profile: true
 
 - Schaab (JMP, 2020), <a href='https://thomasbourany.github.io/files/resources/Slides_Schaab_JMP.pdf' style="color:blue">Micro and Macro Uncertainty</a>, Macro Reading Group, 2020. 
 
-- Farhi. Gabaix (2020), <a href='https://thomasbourany.github.io/files/resources/PublicFinance_Presentation_FarhiGabaix.pdf' style="color:blue">Firming up inequality</a>, Public Finance class, 2019. 
+- Farhi. Gabaix (2020), <a href='https://thomasbourany.github.io/files/resources/PublicFinance_Presentation_FarhiGabaix.pdf' style="color:blue">Optimal Taxation with Behavioral Agents</a>, Public Finance class, 2019. 
 
 - Straub, Werning (2018), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_TBourany_StraubWerning_CapitalTaxation.pdf' style="color:blue">Positive Long-run Capital Taxation: Chamley-Judd Revisited</a>, Macro Reading Group, 2019. 
 
