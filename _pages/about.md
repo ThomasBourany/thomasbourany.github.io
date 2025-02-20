@@ -21,7 +21,7 @@ You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UC
 
 <hr />
 
-<span style="font-size:0.9em;line-height:-0em;">New draft for the paper *The Winners and Losers of Climate Policies, A Sufficient Statistics Approach* coming soon (February 28).</span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">New draft for the paper <i>The Winners and Losers of Climate Policies, A Sufficient Statistics Approach</i> coming soon (February 28).</span> <br/>  <br/>
 
 <span style="font-size:0.9em;line-height:-0em;">New draft for the paper <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Climate Change, Inequality, and the Optimal Climate Policy</a> updated (January 17).</span> <br/>  <br/>
 
