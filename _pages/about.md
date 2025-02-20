@@ -21,9 +21,9 @@ You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UC
 
 <hr />
 
-New draft for the paper *The Winners and Losers of Climate Policies, A Sufficient Statistics Approach* coming soon (February 28). <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">New draft for the paper *The Winners and Losers of Climate Policies, A Sufficient Statistics Approach* coming soon (February 28).</span> <br/>  <br/>
 
-New draft for the paper <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Climate Change, Inequality, and the Optimal Climate Policy</a> updated (January 17) <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">New draft for the paper <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Climate Change, Inequality, and the Optimal Climate Policy</a> updated (January 17).</span> <br/>  <br/>
 
-New draft (January 4, Submitted) for the paper <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue">Supply Chain Uncertainty and Diversification here</a> - joint work with Ignacia Cuevas and Gustavo González <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">New draft (January 4, Submitted) for the paper <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue">Supply Chain Uncertainty and Diversification here</a> - joint work with Ignacia Cuevas and Gustavo González.</span> <br/>  <br/>
 
