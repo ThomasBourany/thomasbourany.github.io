@@ -10,7 +10,7 @@ author_profile: true
 <span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade, and Incentives for Climate Policy</span><br>
 
 <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_jmp.pdf' style="color:blue">JMP here</a> (updated regularly). <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:blue"> JMP Slides here</a>. <br>
-<span style="font-size:0.8em;">Presentations: E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:blue">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago). Policy Brief (<a href='https://e-axes.org/research/the-optimal-design-of-climate-agreements/' style="color:blue">E-axes Forum</a>) 
+<span style="font-size:0.8em;">Presentations: Stanford, Doerr School of Sustainability, Political Economy Conference, E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:blue">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago). Policy Brief (<a href='https://e-axes.org/research/the-optimal-design-of-climate-agreements/' style="color:blue">E-axes Forum</a>) 
 </span>
 
 
@@ -70,6 +70,17 @@ Draft (preliminary) <a href='https://francois-le-grand.com/docs/research/LRB_non
 ## Work in progress
 
 <hr />
+
+
+
+**The Winners and Losers of Climate Policies, A Sufficient Statistics Approach**<br>
+<span style="line-height: 1em;">In progress, 2025, Draft coming soon (February 2025)</span><br>
+<p style="text-align: justify; line-height: 1.1em;">
+<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> To fight global warming, climate policies -- such as carbon taxes or renewable subsidies -- need to be implemented to phase out fossil-fuel consumption. Who are the winners and losers of such policies? Through a simple Integrated Assessment Model with heterogeneous countries and international trade, I study the (i) costs of climate change through local damages and trade spillovers, (ii) the costs of implementing unilateral policies, and (iii) the costs (and gains!) of global cooperation of those climate policies. I show how to express and decompose these welfare changes to first order as a function of \textit{sufficient statistics}, depending on observables and identifiable elasticities: shares of different energy sources, the share of energy rents, goods trade shares, supply and demand elasticities, and damage parameters. First, I show that climate change has non-trivial trade reallocation effects. Second, most countries lose from unilateral carbon policies, with the exception of large energy importers. Third, global climate policy cooperation has a large impact on energy markets, affecting mostly countries reliant on coal and fossil-fuel producers, causing larger welfare losses for those countries than the original costs of climate change. 
+</span>
+</p>
+
+
 
 **When is aggregation enough? Aggregation and Projection with the Master Equation**<br>
 <span style="line-height: 1em;">In progress, 2024</span><br>
