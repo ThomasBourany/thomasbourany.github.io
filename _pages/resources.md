@@ -9,6 +9,8 @@ author_profile: true
 
 - Di Tella, Hebert, Kurlat (2024), <a href='https://thomasbourany.github.io/files/resources/Aggregation_Liquidity_DiTellaetal_2024.pdf' style="color:blue">Aggregation, Liquidity, and Asset Prices with Incomplete Markets</a>, Macro Reading Group, 2024. 
 
+- Greaney (2022), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_ThBourany_Greaney.pdf' style="color:blue">The Distributional Effects of Uneven Regional Growth</a>, Spatial Economics Reading Group, 2023. 
+
 - Weitzman (2003), <a href='https://thomasbourany.github.io/files/resources/Weitzman.pdf' style="color:blue">Price vs. Quantity</a>, Macro Reading Group, 2023. 
 
 - Rudik, Lyn, Tan, Ortiz-Bobea (2022), <a href='https://thomasbourany.github.io/files/resources/ReadingGroup_ThBourany_RLTO_2022.pdf' style="color:blue">The Economic Effects of Climate Change in Dynamic Spatial Equilibrium</a>, Spatial Environment Reading Group, 2022.
