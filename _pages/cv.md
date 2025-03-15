@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2025.pdf' style="color:blue">here</a>
+You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2025.pdf' style="color:maroon">here</a>
 
 
 
@@ -18,8 +18,8 @@ You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV
 
 * Master, Mathematics of Modeling -- UPMC-Sorbonne University, Paris, 2018
 
-* Master, Economics -- EPP -- Sciences Po, Ecole Polytechnique and Ensae (Joint program), Paris, 2016
+* Master, Economics -- EPP -- Sciences Po, Ecole Polytechnique, and Ensae (Joint program), Paris, 2016
 
-* Dual Bachelor in Sciences and Social Sciences -- Sciences Po and  UPMC-Sorbonne (Dual Degree), Paris, 2014
+* Dual Bachelor in Sciences and Social Sciences -- Sciences Po and UPMC-Sorbonne (Dual Degree), Paris, 2014
 
   
