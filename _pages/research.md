@@ -37,8 +37,19 @@ author_profile: true
 </span>
 </p>
 
+
+**The Winners and Losers of Climate Policies: A Sufficient Statistics Approach**<br>
+joint with  <a href='https://jrosenthalkay.github.io' style="color:blue">Jordan Rosenthal-Kay</a>, 2025  <br>
+**New draft (March 15, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:blue"> here</a> <br>
+<p style="text-align: justify; line-height: 1.1em;">
+<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong>
+To combat global warming, climate policies like carbon taxes, renewable subsidies, and carbon tariffs need to be implemented to phase out fossil-fuel consumption and lower emissions. Who are the winners and losers of such policies? Through a simple Integrated Assessment Model with heterogeneous countries and international trade, we study the costs of climate change through local damages and trade spillovers in international goods and energy markets. We study both the costs of implementing those policies unilaterally and the local costs and global gains of international policy cooperation. To do so, we express and decompose these welfare changes to first order as a function of <i>sufficient statistics</i>, depending on observables and identifiable elasticities, like nations' energy mix, energy rents, trade shares, supply and demand elasticities, and damage parameters. We show that climate change has non-trivial reallocation effects through international trade in goods and energy. Pursuing unilateral policies generates strong leakage effects in goods and energy markets that are an order of magnitude larger than the gains due to reduced emissions. Finally, global climate policy cooperation has a large impact on energy markets, affecting mostly countries reliant on coal and fossil-fuel producers, causing potentially larger welfare losses for those countries than the original costs of climate change.
+</span>
+</p>
+
+
 **Supply Chain Uncertainty and Diversification**<br>
-joint with Ignacia Cuevas and Gustávo Gonzalez, In progress, 2024  <br>
+joint with Ignacia Cuevas and Gustávo Gonzalez, 2025  <br>
 **New draft (January 4, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
 <span style="font-size:0.8em;">Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar.</span>
  
@@ -71,14 +82,6 @@ Draft (preliminary) <a href='https://francois-le-grand.com/docs/research/LRB_non
 
 <hr />
 
-
-
-**The Winners and Losers of Climate Policies, A Sufficient Statistics Approach**<br>
-<span style="line-height: 1em;">In progress, 2025, Draft coming soon (February 2025)</span><br>
-<p style="text-align: justify; line-height: 1.1em;">
-<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> To fight global warming, climate policies - such as carbon taxes or renewable subsidies - need to be implemented to phase out fossil-fuel consumption. Who are the winners and losers of such policies? Through a simple Integrated Assessment Model with heterogeneous countries and international trade, I study the (i) costs of climate change through local damages and trade spillovers, (ii) the costs of implementing unilateral policies, and (iii) the costs (and gains!) of global cooperation of those climate policies. I show how to express and decompose these welfare changes, at the first order, as a function of <i>sufficient statistics</i>, depending on observables and identifiable elasticities: shares of different energy sources, share of energy rents, goods trade shares, supply and demand elasticities, and climate damage parameters. First, I show that climate change has non-trivial trade reallocation effects. Second, most countries lose from unilateral carbon policies, with the exception of large energy importers. Third, global climate policy cooperation has equilibrium effects on energy markets, affecting mostly countries reliant on coal and fossil-fuel producers, which cause larger welfare losses for those countries than the costs of climate change. 
-</span>
-</p>
 
 
 **When is aggregation enough? Aggregation and Projection with the Master Equation**<br>
