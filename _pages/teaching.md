@@ -24,22 +24,22 @@ Economics Department, UChicago, Econ 30400, Summer 2020, 2021, 2022.
 
 ## Applied Macroeconomics: Heterogeneity and Macro
 Economics Department & Booth School of Business, UChicago, Busn 33949, Winter 2022. <br/>
-Lectures by **Joe Vavra & Rohan Kekre**. TA, grading and problem sets reviews ($\sim$ 15 students). 
+Lectures by **Joe Vavra & Rohan Kekre**. 
 
 
 ## Monetary Economics
 Economics Department, UChicago, Econ 33502, Fall 2021. <br/>
-Lectures by **Fernando Alvarez**. TA, grading and problem sets reviews ($\sim$ 15 students). <br/>
+Lectures by **Fernando Alvarez**.
 
 ## Macroeconomics 3: Macro Finance and Heterogenous Agents models
 Doctoral School, Sciences Po Paris, Fall 2016 and 2017. <br/> 
-Lectures by **Xavier Ragot** (Sciences Po and CNRS). TA, weekly review sessions, grading and problem sets reviews, ($\sim 25$ students). <br/>
-Lectures on optimization for economics, on <a href='https://thomasbourany.github.io/files/Stochastic-processes-printable.pdf' style="color:maroon">Probability Theory</a> (conditional expectations, Martingales and Markov Chains), on <a href='https://thomasbourany.github.io/files/Asset-Pricing-printable.pdf' style="color:maroon">Asset Pricing</a>.
+Lectures by **Xavier Ragot** (Sciences Po and CNRS). <br/>
+Lectures: optimization for economics, <a href='https://thomasbourany.github.io/files/Stochastic-processes-printable.pdf' style="color:maroon">Probability Theory</a> (conditional expectations, Martingales and Markov Chains), <a href='https://thomasbourany.github.io/files/Asset-Pricing-printable.pdf' style="color:maroon">Asset Pricing</a>.
 
 
-## Macroeconomics 3: Fiscal and Monetary policy
+## Macroeconomics 3: Fiscal and Monetary policies
 Economics Department, Sciences Po Paris, Fall 2016.<br/>
-Lectures by **Jean Barthelemy** (Sciences Po and Banque de France), TA, weekly review sessions and grading ($\sim$ 15 students). 
+Lectures by **Jean Barthelemy** (Sciences Po and Banque de France). 
 
 <hr />
 
@@ -48,16 +48,16 @@ Lectures by **Jean Barthelemy** (Sciences Po and Banque de France), TA, weekly r
 
 ## Global Strategy and Economics
 Chicago Booth School of Business, EMBA, Busn 33850, London, Chicago, Singapore, Spring 2022, 2023<br/>
-Lectures by **Guido Lorenzoni**,  TA, review sessions and grading ($\sim$ 150 students). 
+Lectures by **Guido Lorenzoni**. 
 
 
 ## International Financial Policy
 Chicago Booth School of Business, MBA, Busn 33502, Chicago, Spring 2020, 2021, 2022<br/>
-Lectures by **Rohan Kekre**, TA and grading ($\sim 75-100$ students). 
+Lectures by **Rohan Kekre**. 
 
 ## Money and Banking
 Chicago Booth School of Business, MBA, Busn 33401, Chicago, Spring 2021<br/>
-Lectures by **Killian Huber**, TA and grading ($\sim 75-100$ students). 
+Lectures by **Killian Huber**. 
 
 <hr />
 
@@ -75,10 +75,11 @@ Lectures by **Thomas Chaney** (Sciences Po).
 
 ## Public Economics
 Sciences Po Paris, School of Public Affairs, Fall 2015.<br/>
-Lectures by **Mark Stabile** (University of Toronto), TA, and grading. 
+Lectures by **Mark Stabile** (University of Toronto).
 
-## Quantitative Analysis, Sciences Po Paris, School of Public Affairs, Fall 2015 (in French).<br/>
-Lectures by **Martial Foucault** (Sciences Po, LIEPP and CEVIPOF), TA, grading, writing exams and makeup exams, and supervising students' research projects
+## Quantitative Analysis
+Sciences Po Paris, School of Public Affairs, Fall 2015 (in French).<br/>
+Lectures by **Martial Foucault** (Sciences Po, LIEPP and CEVIPOF).
 
 <hr />
 
@@ -86,7 +87,7 @@ Lectures by **Martial Foucault** (Sciences Po, LIEPP and CEVIPOF), TA, grading, 
 # Bachelor Courses
 
 ## Economic Policy 
-UChicago, The College, Econ 23950, Spring 2019
+UChicago, The College, Econ 23950, Spring 2019.<br/>
 Lectures by **Kanit Kuevibulvanich**
 
 {% include base_path %}
