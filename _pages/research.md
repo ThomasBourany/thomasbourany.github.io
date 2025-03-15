@@ -28,7 +28,7 @@ author_profile: true
 
 
 **Climate Change, Inequality, and the Optimal Climate Policy**<br>
-<span style="line-height: 1.2em;">In progress, 2024</span><br>
+<span style="line-height: 1.2em;">In progress, 2025</span><br>
 <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_slides.pdf' style="color:blue">Slides here</a>, <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimatePolicy_draft.pdf' style="color:blue">Paper here</a> (updated January 2025). <br>
 <span style="font-size:0.8em;">Presentations: NBER-SI Macro-Public Finance (Boston), SED (Barcelona), EEA Meeting (Rotterdam), Yiran Fan Memorial Conference (UChicago). </span>
 
@@ -39,8 +39,8 @@ author_profile: true
 
 
 **The Winners and Losers of Climate Policies: A Sufficient Statistics Approach**<br>
-joint with  <a href='https://jrosenthalkay.github.io' style="color:blue">Jordan Rosenthal-Kay</a>, 2025  <br>
-**New draft (March 15, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:blue"> here</a> <br>
+joint with <a href='https://jrosenthalkay.github.io' style="color:blue">Jordan Rosenthal-Kay</a>, 2025  <br>
+**New paper (March 15, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:blue"> here</a> <br>
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong>
 To combat global warming, climate policies like carbon taxes, renewable subsidies, and carbon tariffs need to be implemented to phase out fossil-fuel consumption and lower emissions. Who are the winners and losers of such policies? Through a simple Integrated Assessment Model with heterogeneous countries and international trade, we study the costs of climate change through local damages and trade spillovers in international goods and energy markets. We study both the costs of implementing those policies unilaterally and the local costs and global gains of international policy cooperation. To do so, we express and decompose these welfare changes to first order as a function of <i>sufficient statistics</i>, depending on observables and identifiable elasticities, like nations' energy mix, energy rents, trade shares, supply and demand elasticities, and damage parameters. We show that climate change has non-trivial reallocation effects through international trade in goods and energy. Pursuing unilateral policies generates strong leakage effects in goods and energy markets that are an order of magnitude larger than the gains due to reduced emissions. Finally, global climate policy cooperation has a large impact on energy markets, affecting mostly countries reliant on coal and fossil-fuel producers, causing potentially larger welfare losses for those countries than the original costs of climate change.
@@ -50,7 +50,7 @@ To combat global warming, climate policies like carbon taxes, renewable subsidie
 
 **Supply Chain Uncertainty and Diversification**<br>
 joint with Ignacia Cuevas and Gustávo Gonzalez, 2025  <br>
-**New draft (January 4, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
+**New paper (January 4, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:blue"> here</a>,  Central Bank of Chile Working Paper. <br>
 <span style="font-size:0.8em;">Presentation: JIE Special Conference on Quantitative Trade  (UW-Madison), PUC Chile Alumni Conference (Santiago), Central Bank of Chile Seminar.</span>
  
 <p style="text-align: justify; line-height: 1.1em;">
@@ -59,8 +59,7 @@ joint with Ignacia Cuevas and Gustávo Gonzalez, 2025  <br>
 
 **A Perturbational Approach for Approximating Heterogeneous-Agent Models**<br>
 joint with Anmol Bhandari, David Evans & Mikhaïl Golosov, In progress, 2024 <br>
-Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/651ef965000c0968dcf184a0/1696528741779/BBEG_master2.pdf' style="color:blue"> here</a> 
-
+Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t/651ef965000c0968dcf184a0/1696528741779/BBEG_master2.pdf' style="color:blue"> here</a> <br>
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;"> <strong>Abstract:</strong> We develop a perturbational technique to approximate equilibria of a wide class of discrete-time dynamic stochastic general equilibrium heterogeneous-agent models with complex state spaces, including multi-dimensional distributions of endogenous variables. We show that approximating policy functions and stochastic processes that govern the distributional state to any order is equivalent to solving small systems of linear equations that characterize values of certain directional derivatives. We analytically derive the coefficients of these linear systems and show that they satisfy simple recursive relations making their numerical implementation quick and efficient. Compared to existing state-of-the-art techniques, our method is faster in constructing first-order approximations and extends to higher orders, capturing the effects of risk that are ignored by many current methods. We illustrate how to apply our method to a broad set of questions such as impacts of first- and second-moment shocks, welfare effect of macroeconomic risk and stabilization policies, endogenous household portfolio formation, and transition dynamics in heterogeneous agent general equilibrium settings.
 </span>
