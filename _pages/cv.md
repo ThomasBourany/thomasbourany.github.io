@@ -10,9 +10,9 @@ redirect_from:
 You can download my CV <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2025.pdf' style="color:maroon">here</a>
 
 
+* Postdoc, Economics -- Columbia University 2025-2026 
 
-
-* PhD, Economics -- University of Chicago (Expected, 2025) 
+* PhD, Economics -- University of Chicago, 2025 
 
 * Master, MAPSS-Economics -- University of Chicago, 2019
 
