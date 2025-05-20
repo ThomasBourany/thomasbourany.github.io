@@ -84,11 +84,11 @@ Draft (preliminary) <a href='https://francois-le-grand.com/docs/research/LRB_non
 
 
 
-**When is aggregation enough? Aggregation and Projection with the Master Equation**<br>
+**Heterogeneous Agents, Projection, and Aggregation: A Master Equation Approach**<br>
 <span style="line-height: 1em;">In progress, 2024</span><br>
-Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2024_Masterequation.pdf' style="color:maroon"> here</a> 
+Slides (preliminary) <a href='https://thomasbourany.github.io/files/Bourany_2025_Master_Equation.pdf' style="color:maroon"> here</a> 
 <p style="text-align: justify; line-height: 1.1em;">
-<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> I study how the Master Equation — developed in the Mean Field Games literature — can be used for economic models with heterogeneous agents and aggregate risk. Using projection, we can bypass part of the assumption of bounded-rationality as in Krusell, Smith (1998): households still consider few moments of the distribution when making expectations but their dynamics are now fully non-linear and consistent with equilibrium outcomes. We can obtain a global characterization of the value, agent policy, and aggregate dynamics in a standard HA models I plan to study richer models with portfolio choice when approximate aggregation may not hold and perturbation methods can be limited.
+<span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong> I propose a global approach to study Heterogeneous Agents (HA) models with aggregate risk. I build on the Master Equation representation, studied in the Mean Field Games literature, where the value function takes the infinite-dimensional distribution as a state variable. In that context, the projection of the distribution on a finite set of moments, as in Krusell and Smith (1998), provides analytical insights and yields finite-dimensional HJB and KFE that can be solved using standard numerical methods. I show how to preserve rational expectations to ensure that agents’ forecasts are consistent with equilibrium dynamics. This method bypasses the constraints of perturbation methods like Bilal (2023), which rely on certainty equivalence, and allows for studying aggregate uncertainty in HA models. I demonstrate the method's potential by applying it to the classic Krusell-Smith model, with substantial speed gains. I show how to implement the method with higher order moments, demonstrating how this model displays “approximate aggregation” and testing the robustness of the bounded rationality assumptions used in other methods. I also illustrate how the analysis extends to richer environments, like price-setting models or portfolio choice problems.
 </span>
 </p>
 
