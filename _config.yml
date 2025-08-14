@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas Bourany"
 title_separator          : "-"
 name                     : &name "Thomas Bourany"
-description              : &description "PhD candidate in Economics"
+description              : &description "Postdoctoral Scholar in Economics"
 url                      : https://thomasbourany.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thomasbourany.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Thomas Bourany"
   avatar           : "Thomas_website_sq.jpg"
-  bio              : "PhD candidate in Economics - UChicago" #"Your biography for the left-hand sidebar"
-  location         : "Chicago"
+  bio              : "Postdoctoral Scholar in Economics - Columbia" #"Your biography for the left-hand sidebar"
+  location         : "New York"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "thomasbourany 'at' uchicago.edu"
+  email            : "tb3219 'at' columbia.edu"
   uri              :
   bitbucket        :
   codepen          :
