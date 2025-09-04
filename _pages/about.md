@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I am Thomas Bourany, a Postdoctoral Research Scholar at the Department of Economics at Columbia University. I completed my PhD in Economics at the University of Chicago in 2025. I specialize in macroeconomics, quantitative climate economics, and international trade. I am also interested in issues related to fiscal and monetary policies over the business cycles, as well as mathematical and computational methods for economics. <br/>  <br/>
+I am Thomas Bourany, a Postdoctoral Research Scholar at the Department of Economics at Columbia University. I completed my PhD in Economics at the University of Chicago in 2025. I specialize in macroeconomics, quantitative climate economics, and international trade. I am also interested in issues related to fiscal and monetary policies over the business cycles, as well as mathematical and computational methods in economics. <br/>  <br/>
 
-In the Fall 2025, I am organizing a reading group on Industrial Policy at Columbia, with Lucía Casal and Filip Milosavljević (syllabus <a href='https://thomasbourany.github.io/files/Reading_Group_Industrial_Policy_syllabus.pdf' style="color:maroon">here</a>). Feel free to join!<br/>  <br/>
+In Fall 2025, I am organizing a reading group on Industrial Policy at Columbia, with Lucía Casal, Filip Milosavljević, Eric Verhoogen, and John Whitford (syllabus <a href='https://thomasbourany.github.io/files/Reading_Group_Industrial_Policy_syllabus_public.pdf' style="color:maroon">here</a>). Feel free to join!<br/>  <br/>
 
 You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UChicago_2025.pdf' style="color:maroon">CV here</a> and contact me at <a href='mailto:tb3219-- at--columbia.edu' style="color:maroon">tb3219'at'columbia.edu</a> or <a href='mailto:thomasbourany-- at--uchicago.edu' style="color:maroon">thomasbourany'at'uchicago.edu</a>. <br/>  <br/>
 
