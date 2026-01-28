@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I am Thomas Bourany, a Postdoctoral Research Scholar at the Department of Economics at Columbia University for the year 2025-2026. I will start as an Assistant Professor in Economics at the Einaudi Institute for Economics and Finance (<a href='https://www.eief.it/eief/' style="color:maroon">EIEF</a>) in Rome starting in the Fall 2026. I completed my PhD in Economics at the University of Chicago in 2025. 
+I am Thomas Bourany, a Postdoctoral Research Scholar at the Department of Economics at Columbia University for the year 2025-2026. I will start as an Assistant Professor in Economics at the Einaudi Institute for Economics and Finance (<a href='https://www.eief.it/eief/' style="color:maroon">EIEF</a>) in Rome starting in the Fall 2026. I completed my PhD in Economics at the University of Chicago in 2025.  <br/>
 
 I specialize in macroeconomics, climate economics, and international trade. I am also interested in issues related to fiscal and monetary policies, as well as mathematical and computational methods in economics. <br/>  <br/>
 
