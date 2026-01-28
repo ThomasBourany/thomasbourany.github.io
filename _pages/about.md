@@ -21,13 +21,13 @@ You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UC
 
 <hr />
 
-<span style="font-size:0.9em;line-height:-0em;">Jan 2026: The paper  <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:maroon"> The Winners and Losers of Climate Policies, A Sufficient Statistics Approach</a>, joint with <a href='https://jrosenthalkay.github.io' style="color:maroon">Jordan Rosenthal-Kay</a> has been accepted at the Economic Journal. </span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">Jan 2026: The paper <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:maroon">The Winners and Losers of Climate Policies, A Sufficient Statistics Approach</a>, joint with <a href='https://jrosenthalkay.github.io' style="color:maroon">Jordan Rosenthal-Kay</a> has been accepted at the Economic Journal. </span> <br/>  <br/>
 
-<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper  <a href='https://thomasbourany.github.io/files/LeGrandRagotBourany_HANK_OptimalPolicy.pdf' style="color:maroon"> Why HANK Matters for Stabilization Policy</a>, joint with <a href='https://xavier-ragot.fr' style="color:maroon">Xavier Ragot</a> and <a href='https://francois-le-grand.com' style="color:maroon">Francois Le Grand</a> updated (and submitted). </span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper <a href='https://thomasbourany.github.io/files/LeGrandRagotBourany_HANK_OptimalPolicy.pdf' style="color:maroon"> Why HANK Matters for Stabilization Policy</a>, joint with <a href='https://xavier-ragot.fr' style="color:maroon">Xavier Ragot</a> and <a href='https://francois-le-grand.com' style="color:maroon">Francois Le Grand</a>: updated (and submitted). </span> <br/>  <br/>
 
-<span style="font-size:0.9em;line-height:-0em;">Paper  <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:maroon"> Supply Chain Uncertainty and Diversification</a>, joint with <a href='https://jrosenthalkay.github.io' style="color:maroon">Jordan Rosenthal-Kay</a> is Revise & Resubmit at the Journal of International Economics. New draft coming soon! </span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:maroon"> Supply Chain Uncertainty and Diversification</a>, joint with <a href='https://sites.google.com/view/gustavo-gonzalez' style="color:maroon">Gustavo Gonzalez</a> and Ignacia Cuevas: Revise & Resubmit at the Journal of International Economics. New draft coming soon! </span> <br/>  <br/>
 
-<span style="font-size:0.9em;line-height:-0em;">Paper <a href='https://thomasbourany.github.io/files/Bourany_2025_OptimalClimateAgreements_jmp.pdf' style="color:maroon">The Optimal Design of Climate Agreements</a> updated (March 2025). New draft coming soon!</span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">March 2025: Paper <a href='https://thomasbourany.github.io/files/Bourany_2025_OptimalClimateAgreements_jmp.pdf' style="color:maroon">The Optimal Design of Climate Agreements</a> updated. New draft coming soon!</span> <br/>  <br/>
 
 
  
