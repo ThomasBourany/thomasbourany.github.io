@@ -10,7 +10,7 @@ author_profile: true
 <span style="font-size:1.2em;"> **The Optimal Design of Climate Agreements**: Inequality, Trade, and Incentives for Climate Policy</span><br>
 
 <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_jmp.pdf' style="color:maroon">JMP here</a> (updated regularly). <a href='https://thomasbourany.github.io/files/Bourany_2024_OptimalClimateAgreements_slides.pdf' style="color:maroon"> JMP Slides here</a>. <br>
-<span style="font-size:0.8em;">Presentations: Stanford, Doerr School of Sustainability, Political Economy Conference, E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:maroon">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago). Policy Brief (<a href='https://e-axes.org/research/the-optimal-design-of-climate-agreements/' style="color:maroon">E-axes Forum</a>) 
+<span style="font-size:0.8em;">Presentations: ECB Forum - Finalist, Young Economist Prize, Harvard - Salata Institute, NBER Spring - Energy Markets, Decarbonization, and Trade, Stanford - Doerr School of Sustainability, E-axes Forum for Junior (<a href='https://www.youtube.com/watch?v=nXLgyBcl2pU' style="color:maroon">webinar link</a>), Climate Frontiers (Climate Institute, UChicago), Chicago Fed Brown Bag (Chicago), Summer Session for Young Scholars (MFR-BFI, UChicago). Policy Brief (<a href='https://e-axes.org/research/the-optimal-design-of-climate-agreements/' style="color:maroon">E-axes Forum</a>) 
 </span>
 
 
@@ -40,7 +40,7 @@ author_profile: true
 
 **The Winners and Losers of Climate Policies: A Sufficient Statistics Approach**<br>
 joint with <a href='https://jrosenthalkay.github.io' style="color:maroon">Jordan Rosenthal-Kay</a>, 2025  <br>
-**New paper (March 15, Submitted)** <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:maroon"> here</a> <br>
+**Accepted -- Economic Journal** <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:maroon"> here</a> <br>
 <p style="text-align: justify; line-height: 1.1em;">
 <span style="font-size:0.9em;line-height:-0em;"> <strong>Abstract:</strong>
 
@@ -67,12 +67,12 @@ Draft <a href='https://static1.squarespace.com/static/54c19f18e4b0ef5f4b9f8dae/t
 </p>
 
 
-**Non-Keynesian stabilizers and wage-price spirals**<br>
-joint with Francois Le Grand, and Xavier Ragot, In progress, 2024 <br>
-Draft (preliminary) <a href='https://francois-le-grand.com/docs/research/LRB_non-Keynesian.pdf' style="color:maroon"> here</a> 
+**Why HANK Matters for Stabilization Policy**<br>
+joint with Francois Le Grand, and Xavier Ragot, 2025 <br>
+Draft <a href='https://thomasbourany.github.io/files/LeGrandRagotBourany_HANK_OptimalPolicy.pdf' style="color:maroon"> here</a>. Previously titled "Non-Keynesian stabilizers and wage-price spirals"
 
 <p style="text-align: justify; line-height: 1.1em;">
-<span style="font-size:0.9em;"> <strong>Abstract:</strong> When both prices and wages are subject to nominal frictions, a negative supply shock or a positive demand shock can trigger a wage-price spiral, as both nominal wages and prices adjust slowly. To analyze optimal policy in this environment, we consider a heterogeneous-agent model, with both wage and price stickiness. We derive joint optimal fiscal-monetary Ramsey policy, using a rich set of fiscal tools, for both supply and demand shocks. Studying various economies, we first find that time-varying labor tax is important to ensure price stability for demand shocks. Second, time-varying wage subsidy (to decrease the labor cost of firm) is the useful instrument for negative demand shocks. We call these policies a non-Keynesian stabilization policy because it does not operate directly through aggregate demand management. Finally, we show that the allocation is significantly different in the HA economy compared to the RA economy when public debt is a relevant tool.
+<span style="font-size:0.9em;"> <strong>Abstract:</strong> We characterize jointly optimal fiscal and monetary Ramsey policies in Heterogeneous- Agent New Keynesian (HANK) economies with both price and wage rigidities. We compare aggregate allocations to Representative-Agent (RA) benchmarks. A major force drives the qualitative response of the optimal policy and the divergence between RA and HA cases: the time-varying tightness of borrowing constraints, summarized by a new sufficient statistic – the Marginal Value of the Credit Constraint (MVCC). When fiscal instruments are restricted, the MVCC rises and HA–RA gap widens. In such cases, persistent inflation becomes optimal as a costly substitute for missing labor-tax instruments.
 </span>
 </p>
 
