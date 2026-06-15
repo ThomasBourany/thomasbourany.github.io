@@ -22,11 +22,14 @@ You can download my <a href='https://thomasbourany.github.io/files/Bourany_CV_UC
 <span style="font-size:1.2em;"> <strong>News</strong> </span> <br/>
 
 <hr />
+<span style="font-size:0.9em;line-height:-0em;">June 2026: New paper <a href='https://thomasbourany.github.io/files/Bourany_2026_Master_Equation_Projection.pdf' style="color:maroon"> When is aggregation enough? Master Equation and Projection for Heterogeneous Agent models with Aggregate Risk</a>. </span> <br/>  <br/>
+
+<span style="font-size:0.9em;line-height:-0em;">June 2026: Paper <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_Supply_chain_uncertainty_and_diversification.pdf' style="color:maroon"> Supply Chain Uncertainty and Diversification</a>, joint with <a href='https://sites.google.com/view/gustavo-gonzalez' style="color:maroon">Gustavo Gonzalez</a> and Ignacia Cuevas: updated (Revise & Resubmit, Journal of International Economics) </span> <br/>  <br/>
+
 <span style="font-size:0.9em;line-height:-0em;">Jan 2026: The paper <a href='https://thomasbourany.github.io/files/Bourany_RosenthalKay_2025_SufficientStats.pdf' style="color:maroon">The Winners and Losers of Climate Policies, A Sufficient Statistics Approach</a>, joint with <a href='https://jrosenthalkay.github.io' style="color:maroon">Jordan Rosenthal-Kay</a> has been accepted at the Economic Journal. </span> <br/>  <br/>
 
-<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper <a href='https://thomasbourany.github.io/files/LeGrandRagotBourany_HANK_OptimalPolicy.pdf' style="color:maroon"> Why HANK Matters for Stabilization Policy</a>, joint with <a href='https://xavier-ragot.fr' style="color:maroon">Xavier Ragot</a> and <a href='https://francois-le-grand.com' style="color:maroon">Francois Le Grand</a>: updated (and submitted). </span> <br/>  <br/>
+<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper <a href='https://thomasbourany.github.io/files/LeGrandRagotBourany_HANK_OptimalPolicy.pdf' style="color:maroon"> Why HANK Matters for Stabilization Policy</a>, joint with <a href='https://xavier-ragot.fr' style="color:maroon">Xavier Ragot</a> and <a href='https://francois-le-grand.com' style="color:maroon">Francois Le Grand</a>: updated. </span> <br/>  <br/>
 
-<span style="font-size:0.9em;line-height:-0em;">Dec 2025: Paper <a href='https://thomasbourany.github.io/files/Bourany_Cuevas_Gonzalez_2024_Supply_chain_disruptions_and_diversification.pdf' style="color:maroon"> Supply Chain Uncertainty and Diversification</a>, joint with <a href='https://sites.google.com/view/gustavo-gonzalez' style="color:maroon">Gustavo Gonzalez</a> and Ignacia Cuevas: Revise & Resubmit at the Journal of International Economics. New draft coming soon! </span> <br/>  <br/>
 
 
 
